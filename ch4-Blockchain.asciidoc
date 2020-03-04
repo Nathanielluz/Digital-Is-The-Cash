@@ -1,0 +1,112 @@
+*What is Blockchain?*
+
+The blockchain technology is undoubtedly one of the greatest technological happenings in the world today. Its entrance into the world was followed by a change in the financial sector. Although there are many other sectors in which the blockchain finds relevance like healthcare, agriculture and production sector, it promises to revolutionize the world's current financial system.
+
+Ever since the creation of Bitcoin and one of its underlying technology, the blockchain, in 2008, there has been a shift towards the use of this digital form of money called cryptocurrencies. This became more evident in how the value of Bitcoin rose from a few cents to over 20,000 US dollars in December 2017. The blockchain technology promises a very bright future for the world we live in. It aims to make services that are offered to the public to become as transparent, decentralized, safe, secure and convenient as possible. One may wonder why there is so much emphasis on this important invention, but a good understanding of its structure would help us to understand the endless possibilities that it offers.
+
+*Benefits of the blockchain*
+
+● 	It allows for secure and transparent transactions. The transactions are secure since they are peer-to-peer (P2P) and are transparent since each transaction information is made public.
+
+● 	Double-spending is not possible with transactions on the blockchain. Double-spending is a problem in which the same digital currency can be spent more than once.
+
+● 	It eliminates the need for a middle man or third party to facilitate transactions between two individuals.
+
+● 	It is immutable. Information entered into the blockchain cannot be altered by any known computational means.
+
+*Cryptocurrency*
+
+Cryptocurrencies are digital currencies that exist on the internet and can be sent from one person to another anywhere in the world, where several different people confirm that transactions without a central regulatory body like the government. How does that work you say? Let's dive further.
+
+In 2008, a whitepaper was released about the first cryptocurrency called Bitcoin, a new monetary system; the internet of money. Bitcoin can be sent from person Alice to person Bob as long as they are both connected to the internet and unlike fiat currency, Bitcoin has a fixed supply of 21 million. That's all that will ever exist and they have to be “mined” i.e. new Bitcoins have to be produced until the maximum is reached. Who confirms the transaction between Alice and Bob? How are Bitcoins mined if everything exists digitally?
+
+The blockchain technology is one of the four technologies behind Bitcoin and other cryptocurrencies, the others being P2P Network, Proof-of-Work and Cryptography. The Blockchain is an open, distributed and encrypted ledger/network that records data that everyone in the world can participate in.
+
+The people who participate in this network and confirm transactions that take place in the network are called miners, they simply take a transaction and add it to the ledger/network that everyone is accessing and broadcast it to everyone in the network that a transaction between Alice and Bob took place. However, this process of confirmation doesn't come cheap as the computers of these miners are made to solve complex puzzles, whoever gets it first will confirm the transaction and get rewarded with new cryptocurrencies for their efforts. So miners equip themselves with powerful computers to stand a chance to earn rewards. This process of confirmation is called “proof of work” and the rewards given to participants in the network is what keeps the network running till date.
+
+There are other ways of confirmations which includes proof-of-stake, delegated-proof-of-stake, proof of authority but more emphasis will be laid on proof of stake later on.
+
+Since the inception of Bitcoin, different types of cryptocurrencies have been developed with different functionalities. Some were built to serve as currencies e.g. Dash, some as a computer for decentralized applications i.e. they serve as a means for other people to build and run applications on the blockchain like Ethereum. Some are built as reward systems, lending platforms, voting systems, distributed computation, identity platforms, distributed storage systems and advertising systems.
+
+Basically, there are two main methods of reaching consensus on the blockchain which are the Proof of Work (PoW) and the Proof of Stake (PoS). Each of these aforementioned consensus methods are distinct in the mode with which they process transactions and come to agreement on the blockchain.
+
+*Proof of Work*
+
+Proof of Work shortened to PoW is a type of blockchain consensus algorithm that authorizes transactions through mining of blocks that are ultimately added to the blockchain. This is attained by the use of mining rigs. Mining rigs can be thought of as a group of computers that process data at a very high speed and find answers to certain puzzle-like tasks. The mining rig that gets the answers correctly is rewarded. Unfortunately, the use of PoW comes with a whole lot of challenges with “high consumption of energy” being the main challenge, hence the shift to PoS.
+
+*Proof of Stake*
+
+Proof of Stake abbreviated to PoS is a type of consensus algorithm where certain individuals who wish to take part in the consensus on the network provide a certain amount of coins called a stake which is commonly in the base currency of the blockchain network. They are then allowed to take part in the consensus by verifying transactions, adding blocks and taking a vote in certain decisions. They stand a chance of losing part or all of their stake if they prove to be dishonest and they are rewarded if they show honesty. This serves as an incentive to drive honesty in the consensus process.
+
+*Wallets*
+
+Wallets are what allows you to interact with the blockchain, the app or software you interact with when attempting to initiate a transaction or access your information on the blockchain. The blockchain is a very sophisticated network with a massive number of lines of code which an average person cannot understand. Therefore, wallets are designed to have very understandable interfaces even grandmothers can easily use to send and receive cryptocurrencies, they basically hold your account information and your funds. The vast majority of wallets are light clients, which access only the most recent information on the blockchain that's relevant to your particular account at the time, rather than storing the entirety of the massive file that is the blockchain. This is because the blockchain grows longer and thus requires more space with every block, thus the need for light clients in the first place.
+
+Blockchain “accounts” are comprised of two parts:
+1.A public address, given out to others to tell them where to send you cryptocurrency.
+
+2.A private key that's used to digitally sign transactions. This is akin to a password. If someone knows your private key, they can effectively send your crypto wherever they want to with no repercussions. Thus, keeping your private key safe is of utmost importance.
+
+When you purchase cryptocurrency on an exchange, the exchange generates and stores addresses and keys for you on their servers. This means that your assets are only as safe as the servers they're stored on and exchanges are targets for hacks. For this reason, it is generally recommended to move your crypto to a more secure wallet for long term storage.
+
+Just as there are different types of accounts there are different types of wallets but unlike the accounts that are simply classified by the time required for storage of funds, wallets are also classified by their security. Security is a very important issue since you have total control of your funds and a little mistake could cost you your life savings.
+
+Desktop and Mobile wallets
+These work by storing your private keys on the hard drive of your device. They are safe and if you drop or lose your device, you will not lose your money (or rather, the ability to access your money, which is pretty much the same thing), as you can recover your funds from either the private keys or seed phrase.
+
+Anyone can access your funds from another device if they reconstitute the wallet there. The possessor of the private keys/ seed phrase owns the funds!
+
+Cold Storage wallets
+Cold storage wallets are widely regarded as the best option for keeping your crypto assets as safe as possible while still allowing relative ease of access. A device about the size of a flash drive generates a new public and private key pair offline, encrypting them.
+
+Cold storage wallets are great for a few reasons:
+1. They are portable – you can take your crypto anywhere!
+2. They are not susceptible to hacking.
+3. Your information is not stored anywhere online.
+4. Even if someone steals your actual device, they can't decrypt your private keys. It is Protected by a passcode and /or Two Factor Authentication which is a double layer security feature offered by google authenticator (You can download it on playstore).
+5. If you lose the device, your information is recoverable with a seed phrase specific to you.
+Addresses
+The traditional method of sending money through banks is to ask for the recipient's account number and account name right? The bank acts as the trusted middleman to confirm the transaction. In cryptocurrency, it works a bit differently.
+
+ 
+
+There are:
+
+● Public address (this is related to your public key, so for this introductory primer, we will refer to them interchangeably)
+
+● Private key
+
+Think of your public address like your bank account number: anyone can send you money if they have your bank account number – it's public. To receive cryptocurrency, all you have to do is give the sender your public address. The address is a long, random string of numbers and letters.
+
+An update is coming to Dash where you will no longer need random string of numbers and letters to send Dash but readable and easily recalled usernames dedicated to each wallet address.
+
+On the other hand, if you want to send money to someone else through your mobile banking app, you must first enter your password and log into your account. The password ensures that it's actually you sending money, instead of some hacker. In the same way, to send your crypto to someone else you must first enter your private key. A private key is what protects your account, so it should never be shared with anyone else.
+
+Entering your private key to validate, or “sign” a transaction is like saying “Yep! This is me! Go ahead and send one Dash to Joe.” Two things to note:
+
+1.  If someone has your private key, they can send your crypto wherever they want and there's nothing you can do about it. Keeping your key safe is critical.
+
+2.  For each crypto you own, you will use a different public address and private key. Your public and private keys are collectively called your “key pair.”
+
+In a simplified manner, an address can be compared to physical infrastructures, such as your residence for instance. Since your address is public, anyone interested in knowing where you live can request your address and even share the address of your house to another person. Anyone can know your address since it is public, but they cannot enter the premises just by knowing your address. A key (the private key) is what you use to enter your house and anyone can hardly do so without your private key. No one wants to lose that key or give duplicates of the keys to others, but you can share your address to a multitude when you want to throw a party.
+
+Keeping your private key secure is very important; else it is like throwing your house open for everyone to act like an owner.
+
+Owning Cryptocurrency
+To possess cryptocurrency, you have to create a wallet. A wallet is a software program that is used to receive, store and spend cryptocurrencies. A wallet helps you receive, store and spend cryptocurrency through your public and private keys. Wallets are therefore facilities to house cryptocurrency and can be compared once more to an actual house. The public key to the wallet helps you receive cryptocurrency while the private keys grant access to using them to transact.
+
+Wallets act beyond just helping you to receive and spend cryptocurrency. They establish a connection between you and the platform and can help you know the current value of a cryptocurrency. They show your balance, your transaction history and help you select preferences, such as the amount of transfer fee you want to use based on your desired speed of sending cryptocurrency.
+
+After creating a new empty digital wallet that can store, receive and send digital currency, but on some few instances, a bonus (small cryptocurrency value) load up for gas cost (gas refers to the pricing value required to successfully conduct a transaction or execute a contract on the Ethereum blockchain platform) and early usage of such digital currency, could have been assigned to newly created wallet to be able to initiate a transaction. This is not applicable to all wallets, but is available for some few digital wallet as a bonus fee to begin transaction with a particular low bonus fee. In general, a newly created cryptocurrency wallet is empty and you have to receive cryptocurrency into your wallet by either:
+
+*a) Receiving / Requesting Cryptocurrency*
+
+You can own cryptocurrency when someone sends it to you. Whether it is a payment for a good you sold, a service you ordered or a birthday gift, you can receive cryptocurrency direct into your wallet from another user. The sender must first be aware of the public address of your wallet, which the user can send to, or if using a mobile wallet, by scanning the QR code.
+
+*b) Buying cryptocurrency*
+
+You can buy cryptocurrency through an exchange. Exchanges enable users to buy and sell cryptocurrency for fiat currency known an OTC (over the counter) exchange or fiat exchange. You can also buy cryptocurrency with other cryptocurrencies or buy with gift cards. Some exchange platforms connect users, peering someone who wants to buy with another that wants to sell known as peer-to-peer exchange. Some others simply sell the requested amount to the buyer in exchange for fiat currency (OTC).
+
+Exchanges create wallets for users to buy and sell. However, it is not completely safe to store your cryptocurrency on an exchange. Storing your cryptocurrency with an exchange is granting third party access to and control over your funds, exposing it to fraud. Asides, exchanges are victims of attacks and are often vulnerable to them.
+
+It is advisable to move significant amounts of cryptocurrency from an exchange to a safer wallet.      

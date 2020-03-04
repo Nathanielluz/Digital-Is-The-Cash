@@ -1,0 +1,98 @@
+*Who are the Unbanked?*
+
+Conventional banking methods have caused a large portion of the world's population to lack access to banking services. These group of people are known as the unbanked. From the Global Findex database there about 1.7 billion unbanked adults. China, India, Pakistan, Indonesia, Mexico, Bangladesh and Nigeria are home to almost half of the world's unbanked population.
+
+*Banks or banking?*
+
+People want banking services but they do not want to have dealings with the bank. This has given rise to several fintech companies filling in the gap. fintech companies have made it possible to pay bills, make transfers, request loans and a host of other financial services all without the conventional methods of visiting the bank and having to stay on long queues followed by long document processing which may not yield fruitful results. All this is now done online, although the banks have stepped up and have started making some of these services available on their mobile apps.
+
+Children all over the world born today today may never even have a bank account. With the effective impact of cryptocurrencies on the life of today's youngsters, they may come to see owning a bank account as an unnecessary formality. Their children will also most likely follow in their footsteps and leapfrog the experience of ever owning a bank account.
+
+Banking the unbanked can be most attained by driving financial inclusion through mobile phones, as their penetration is already deeper. From a Forbes report, only 55% of adults have a bank account but 80% of them have mobile phones. Fintech services like M-Pesa in Kenya have previously used the mobile phone penetration to provide financial services.
+
+Banking is essential, even as banks lose relevance
+Financial services are at the core of the economy. These services can be compared to the engines that propel the wheels of trade and industry. Just as money has changed over time, finance has also evolved. Banking transformed from mere exchange between individuals to the making of deposits as savings in the Babylonian, Greek and Roman temples. Over time, the deposit of money led to the advent of securities and interest as a reward for loans. The finance system adapted to the demands of international trade and globalization, expanding to a complex network of numerous systems and components. To date, the finance space keeps expanding to meet the booming needs of national and international transactions. On the other hand, it also narrows its focus on meeting the peculiarity of individual consumer needs. One question hangs menacingly over their attempts to serve the individual consumer's needs: have their attempts been successful or not?
+
+The answer is two-fold, yes and no. Yes, because it has catered successfully to some extent, for the banking needs of some people, especially in advanced/urban environments. These set of users have access to the advancements in the delivery of banking services, like the credit card some years ago. Even children have special accounts that can be operated on their behalf.
+
+On the other hand, the banks have left a large population of people unattended to. As at 2017, over 1.7 billion adults are unbanked, yet two-thirds of them own a mobile phone that could help them access financial services. The implication of not having a bank account means that there is restricted access to financial services. The unbanked population are financially excluded and therefore cut off from enjoying financial services. Beyond the unbanked adults, millions of businesses do not have access to financial services and that limits the possibilities of expansion.
+
+Financial inclusion reflects positively in metrics of national growth and economic development and financial exclusion, evident in countries like Bangladesh, Nigeria, Mozambique and the Philippines could contribute to economic frustration. The factors behind such unbanked population are poverty, the distance to financial institutions, the absence of vital documents and distrust in financial organizations.
+
+According to Statista, the number of mobile phone users in the world is expected to pass the five billion mark by 2019. In 2016, an estimated 62.9 percent of the population worldwide already owned a mobile phone. The mobile phone penetration is forecasted to continue to grow, rounding up to 67 percent by 2019.
+
+The number of smartphones and internet enabled devices means that financial services could be more accessible. It means that more people could do more because they are required to do less. It means that not only will banks be able to reach more people, but more people will be able to reach banking services without actual banks, but alternative sources.
+
+For the first time, banks and other financial institutions will not merely have to adapt to and embrace emerging technologies, they will have to evolve and revolve with these changes that occur at an accelerating pace. It means that users will not have to walk a distance to get to their banks, but can move to any distance while their banks go with them right in their palms. Put simply, people will be enabled to have bank accounts more easily and also, they will be empowered to enjoy financial services without having a bank account. Although this has started happening, it promises to happen everywhere, to everyone and through a multiplicity of alternative channels.
+
+*On Fintech*
+
+Over the years, there has been a massive application of technology in banking and other financial services. In these cases, technology has been used to improve banking operations and delivery of services to account holders. Technology is used in-house to handle processes and improve work. Financial organizations have also used technology to improve service delivery for users. For instance, banks are transitioning from using physical media (cheques, bank tellers, receipts, deposit slips) to the use of information and communication technology channels. Banks have adopted technology through Automated Teller Machines, credit cards, internet banking, USSD and many more. The realization that brick and mortar structures cannot serve all the needs of consumers has led to the adoption of technology in banking.
+
+*Internet Banking*
+
+Internet banking or electronic banking (e-banking) allows a user to perform banking activities over the internet. This enables anyone with a bank account to transact over the internet rather than through a branch. Internet banking is often done on a website or through an application and can allow for different activities such as transferring funds between registered accounts, making payments to third parties, requesting loans, making investments, checking account details, requesting for credit cards, viewing transactions, checking bank statements etc. Beyond banks enabling account owners to transact over the internet, there are also branchless banks that are fully established on the internet. These types of banks offer direct banking services over the internet without having to ever visit an actual branch. They often require uploading certain documents for the account to be created.
+
+Internet banking has had a tremendous effect on banking. The provision of this method of transactions reduces the direct burden on human staff and also gives ease of access to users. Internet banking is very convenient and it enables users to make payments and purchases anywhere and at anytime. The services are most often available every moment of the day, removing the time restriction that brick and mortar banking creates. Internet banking or mobile banking is also fast and efficient. Transactions can be made in minutes without having to queue, without having to go through filling long forms and without having to wait for authentication by a banker. Internet banking makes banking easy, fast and secure.
+
+Internet banking is just one of the applications of banking with technology. The use of technology in banking can be summed up with the term “digital transformation” which entails modifying processes through digitalization, with the goal of optimization. There could be more and as shown in recent times, there is actually more -- digital disruption.
+
+*USSD Banking*
+
+Unstructured Supplementary Service Data (USSD) is a Global System for Mobile (GSM) technology. It aids communication by dialing short codes on a mobile phone and does not require an internet connection. Banks now use it to provide financial services for customers by simply dialing a short code. The short code is given by the bank and the customer must have an account with the said bank. It can only be done on a mobile phone which has the SIM card used in bank registration.
+
+*Unraveling Financial Technology*
+
+Technology has widely been applied in banking. The application of technology in banking simply means technology has been used to improve the delivery of banking and other financial services. Technology has extended beyond being applied in technology alone. Technology is now being combined with finance to deliver both simultaneously. The rate of innovation and digitalization has led to a massive shift in the finance sector. The partnership between finance and technology is synergistic and it birthed the term "fintech".
+
+Financial technology is set to revolve the finance sector. It is essential to understand fintech, how the financial industry can harness the advantages and address the threats that widespread digitalization poses and to see how this innovation can promote financial inclusion.
+
+The word Fintech just started being used in the early 2010s. The coinage from finance and technology is a recent addition to both sectors, but it has had far reaching implications and it still boasts a whole world of possibilities ahead. With fintech, the number of people who have smartphones and access to the internet becomes more significant, as it shows the large extent it can help those who have no bank accounts to reap the benefits of financial inclusion. Fintech has emerged as a key sector of two industries and it is causing paradigm shifts in both industries.
+
+Fintech is the delivery of financial services with technology. It involves innovating financial services through technological devices with the aims to increase accessibility and consumer satisfaction. Some definitions have adopted the term "disruption", meaning that fintech is the disruption of existing banking and other financial activities through the application of technology. Fintech is truly digital disruption, modifying existing systems and establishing new ones, leading to changing business models and a focus on customer experience and inclusion.
+
+Financial technology comes with numerous possibilities. The case of M-pesa in Kenya is a great example. M-pesa has helped over 80% of Kenyans make financial transactions from their phones without even having a bank account. The proportion of Kenya's population with access to formal financial services rose to 83 percent from 75 percent in 2016, driven largely by mobile technology, a survey part-conducted by the central bank of Kenya in 2019.
+
+Fintech has been extensively used to perform five services. These services are money transfer and payments, savings and investments, borrowing and lending, insurance and budgeting and financial planning. Fintech is also used for digital asset management, retail trading platforms and the development of new payments infrastructure.
+
+The use of fintech in performing these activities has increased the number of participants in the sector. Start-ups have sprouted, each posting a unique idea to improve the sector. Financial giants have also looked inwards and partnered with some of those start-ups to deliver more value. In recent times, big tech companies have also leapt into the fintech sector. All of these lead to the evolution of a keenly contested, global sector with giant players and budding companies too. The decentralization of the sector is novel, shifting it away from the former monopoly of access. Furthermore, the stringent regulation and restricting policies guiding financial activities has had to pave way or be more liberally modified to accommodate the number of players. Fintech adoption has led to a shift from the financial institutions to their consumers, making the need to balance profit making and customer satisfaction imperative, as well as adapting to increased competition and changing regulations.
+
+As a result, huge sums of money have been invested in ensuring that companies can benefit from increasing financial inclusion to the huge number of unbanked people globally.  
+
+*Why Fintech Matters*
+
+Fintech matters because it can deliver financial services to anyone, anywhere in the world and at any moment, insofar as that person has an internet enabled device. Fintech provides an ideal solution for a problem that has been at the core of many policy objectives - increasing accessibility to financial services. Technological advancement and increased possession of information and communication technology devices (over two-thirds of the unbanked population have mobile phones) could be used in facilitating financial transactions for all.
+
+Mobile devices play a prominent role in financial accessibility. The example of M-pesa demonstrates how mobiles phones can be used by people without bank accounts to transact and save through a mobile device. Beyond mobile phones, internet access and increasing digital awareness can help contribute to reducing the number of underserved people.
+
+Financial technology generally helps achieve numerous aims. Beyond helping those that are financially underserved have access to financial services, it helps participants improve their services to get the currently served better served. Financial technology creates channels for devising solutions to increasing demands and the need for improved use of financial services, enhancing their quality, speed and security. Financial technology can also help harness the spread of mobile phones ownership, wider network coverage and increasing technology awareness to improve accessibility. Furthermore, participants in the fintech sector can leverage on electric data to design customer-centric services, giving a feel of personalized services. Also, fintech and effective government regulations can help increase protection and security of transactions and customers.
+
+Financial technology will improve access to financial services through circumventing, or augmenting the processes for becoming banked in traditions brick and mortar banks. The AFI Special Report, tilted "Fintech for financial inclusion: a framework for digital financial transformation", 2018 listed them thus:
+
+1. Digital identity and electronic know your customer for identification and simplified account opening
+
+2. Open electronic payment systems, infrastructure and an enabling regulatory and policy environment that facilitate the digital flow of funds from both traditional financial intermediaries and new market entrants
+
+3. Account opening initiatives and electronic provision of government services, providing vital tools to access services and save
+
+4. Design of digital financial market infrastructure and systems that, in turn, support value-added financial services and products and deepen access, usage and stability.
+
+Financial technology is therefore not solely a product of a nexus between finance and technology. Creating and implementing progressive regulations, is key to unlocking its potential.
+
+*On Blockchain and other technologies at the base of financial technology*
+
+Four emerging technologies are the foundation on which financial technology is built. These technologies are Application Programming Interfaces (API), Artificial Intelligence (AI), Distributed Ledger Technology and Biometrics. Companies based on these emerging technologies have been funded in the drive to promote improved access to financial services. Blockchain (distributed ledger technology) is one emerging technology that has significantly enhanced financial inclusion through its primary application or use case which is cryptocurrency. It has and will continue to, in collaboration with the other technologies (AI, APIs and Biometrics) propel financial technology forward. These technologies are also aided by cloud computing and data security. A brief overview of artificial intelligence, application programming interface and biometrics will be done. Blockchain, which is prominent among these technologies, will also be explained along with them.
+
+APIs help with the aggregation of financial services providers. It helps create connectivity between banks and fintech service providers, opening the space for aggregation of resources and collaboration between financial institutes and fintech companies. Such collaborations remove the monopoly often associated with banking and promote Open Banking. These collaborations increases competition and as a result improve customer experience. The aggregation of resources, ideas and insight can lead to better products and improved services. API creates an ecosystem that includes financial institutions, fintech platforms and big tech firms.
+
+Artificial intelligence, particularly machine learning, is able to create dynamic user experiences. Fintech positions the customer as a king and players in the sector want to appeal to as many customers as possible. Artificial intelligence can be utilized to improve their users experience, make operations easier and faster and utilize the user's data through intuitive channels. AI can be used for chat bots, monitoring, fraud protection, identity amongst others. It can be used for biometrics, which will be discussed next.
+
+Hundreds of millions of dollars are being invested in biometrics. The importance of identity collection and use in fintech makes biometrics a pivotal unit of fintech platforms and even traditional financial institutions. Biometrics are vital for authentication, identity and security, which in turn are also vital for establishing systems that foster financial inclusion.
+
+Cryptocurrency is often the first word when blockchain and finance, or blockchain and business is mentioned. Cryptocurrency actually plays the biggest role at the moment, attracting regulations, government agencies and a lot of activities. Being the first application, it is still the most used application. Other applications are being tested, however. blockchain holds numerous potential for finance, ranging from smart contracts to data storage and record keeping, to digital asset management and many other innovations that can be built on the decentralized ledger technology.
+
+Cryptocurrencies have been adopted by financial institutions and national governments. The Bank of England announced the RScoin in 2016. Many other banks have threaded that path too. Countries have also created national digital currencies, such as the e-dinar, a national digital currency issued by Tunisia in 2015, United Arab Emirates blockchain-based encrypted digital currency called emCash, Venezuela's Petro and many others. Countries like Canada, Uruguay, Norway, New Zealand, Singapore, Saudi Arabia and many more are seemingly working on cryptocurrency projects.
+
+Cryptocurrency can help facilitate swift, borderless payments. For places like Africa, it can help cut the shortages of over 8% of remittance charges. The removal of intermediaries will help create faster, secure and safer transactions with little or no costs.
+
+Blockchain technology can help propagate access to financial services.
