@@ -1,0 +1,119 @@
+*Qu'est-ce que la chaîne blocs?*
+
+La technologie de la blockchain est sans aucun doute l'un des plus grands événements technologiques du monde aujourd'hui. Son entrée dans le monde a été suivie d'un changement dans le secteur financier. Bien qu'il existe de nombreux autres secteurs dans lesquels la blockchain trouve sa pertinence, comme les soins de santé, l'agriculture et le secteur de la production, elle promet de révolutionner le système financier mondial actuel.
+
+Depuis la création de Bitcoin et de l'une de ses technologies sous-jacentes, la blockchain, en 2008, il y a eu un virage vers l'utilisation de cette forme d'argent numérique appelée crypto-monnaies. Cela est devenu plus évident dans la façon dont la valeur du Bitcoin est passée de quelques cents à plus de 20 000 dollars américains en décembre 2017. La technologie de la chaîne de blocs promet un avenir très brillant pour le monde dans lequel nous vivons. Elle vise à rendre les services offerts au public devenir aussi transparent, décentralisé, sûr, sécurisé et pratique que possible. On peut se demander pourquoi l'accent est tellement mis sur cette invention importante, mais une bonne compréhension de sa structure nous aiderait à comprendre les possibilités infinies qu'elle offre.
+
+*Avantages de la chaînebloc*
+
+● 	It allows for secure and transparent Ÿ Il permet des transactions sécurisées et transparentes. Les
+transactions sont sécurisées car elles sont peer-to-peer (P2P) et sont transparentes puisque chaque information de transaction est rendue publique.
+
+●  Les doubles dépenses ne sont pas possibles avec les transactions sur la blockchain. La double dépense est un problème dans lequel la même monnaie numérique peut être dépensée plusieurs fois.
+
+●  Il élimine le besoin d'un intermédiaire ou d'un tiers pour faciliterles transactions entre deux individus.
+
+● Il est immuable. Les informations saisies dans la blockchain ne peuvent être modifiées par aucun moyen de calcul connu.
+
+*Crypto-monnaie*
+
+Les crypto-monnaies sont des monnaies numériques qui existent sur Internet et peuvent être envoyées d'une personne à une autre n'importe où dans le monde, où plusieurs personnes différentes confirment les transactions sans un organisme de réglementation central comme le gouvernement. Comment ça marche, vous dites? Plongeons plus loin.
+
+En 2008, un livre blanc a été publié sur la première crypto-monnaie appelée Bitcoin, un nouveau système monétaire; l'Internet de l'argent. Le Bitcoin peut être envoyé de la personne Alice à la personne Bob tant qu'ils sont tous deux connectés à Internet et contrairement à la monnaie fiduciaire, Bitcoin a une offre fixe de 21 millions d'euros. C'est tout ce qui existera jamais et ils doivent être «minés», c'est-à-dire que de nouveaux Bitcoins doivent être produits jusqu'à ce que le maximum soit atteint. Qui confirme la transaction entre Alice et Bob? Comment les Bitcoins sont-ils extraits si tout existe numériquement?
+
+La technologie blockchain est l'une des quatre technologies derrière Bitcoin et d'autres crypto-monnaies, les autres étant le réseau P2P, la preuve de travail et la cryptographie. La Blockchain est un grand livre / réseau ouvert, distribué et crypté qui enregistre des données auxquelles tout le monde peut participer.
+
+Les personnes qui participent à ce réseau et confirment les transactions qui ont lieu dans le réseau sont appelées mineurs, elles prennent simplement une transaction et l'ajoutent au grand livre/réseau auquel tout le monde accède et la diffusent à tout le monde dans le réseau qu'une transaction entre Alice et Bob a eu lieu. Cependant, ce processus de confirmation n'est pas bon marché car les ordinateurs de ces mineurs sont conçus pour résoudre des
+
+Il existe d'autres moyens de confirmation qui incluent la preuve de mise, la preuve de mise en jeu déléguée, la preuve d'autorité, mais plus d'emphase sera mise sur la preuve de mise plus tard.
+
+Depuis la création de Bitcoin, différents types de crypto-monnaies ont été développés avec différentes fonctionnalités. Certains ont été construits pour servir de devises, par exemple Dash, certains comme un ordinateur pour des applications décentralisées, c'est-à-dire qu'ils servent de moyen pour d'autres personnes de créer et d'exécuter des applications sur la blockchain comme Ethereum. Certains sont conçus comme des systèmes de récompense, des plateformes de prêt, des systèmes de vote, des calculs distribués, des plateformes d'identité, des systèmes de stockage distribués et des systèmes publicitaires.
+
+Fondamentalement, il existe deux méthodes principales pour parvenir à un consensus sur la blockchain, à savoir la preuve de travail (PoW) et la preuve de participation (PoS). Chacune de ces méthodes de consensus susmentionnées est distincte dans le mode avec lequel elle traite les transactions et parvient à un accord sur la blockchain.
+
+*Preuve de Travail*
+
+La preuve de travail raccourcie en PoW est un type d'algorithme de consensus de la blockchain qui autorise les transactions via l'extraction de blocs qui sont finalement ajoutés à la blockchain. Cet objectif est atteint grâce à l'utilisation de plates-formes minières.
+
+Les plates-formes minières peuvent être considérées comme un groupe d'ordinateurs qui traitent les données à très grande vitesse et trouvent des réponses à certaines tâches de type puzzle. La plate-forme minière qui obtient les réponses correctement est récompensée. Malheureusement, l'utilisation du PoW comporte de nombreux défis, la «consommation élevée d'énergie» étant le principal défi, d'où le passage au PoS.
+
+*Preuve d'Enjeu*
+
+Proof of Stake abrégé en PoS est un type d'algorithme de consensus où certaines personnes qui souhaitent participer au consensus sur le réseau fournissent une certaine quantité de pièces appelées une mise qui est généralement dans la devise de base du réseau blockchain. Ils sont ensuite autorisés à participer au consensus en vérifiant les transactions, en ajoutant des blocs et en votant dans certaines décisions. Ils ont une chance de perdre une partie ou la totalité de leur mise s'ils s'avèrent malhonnêtes et ils sont récompensés s'ils font preuve d'honnêteté. Cela sert d'incitation à
+conduire l'honnêteté dans le processus de consensus.
+
+*Porte Feuilles*
+
+Les portefeuilles sont ce qui vous permet d'interagir avec la blockchain, l'application ou le logiciel avec lequel vous interagissez lorsque vous tentez d'initier une transaction ou d'accéder à vos informations sur la blockchain. La blockchain est un réseau très sophistiqué avec un nombre énorme de lignes de code qu'une personne moyenne ne peut pas comprendre. Par conséquent, les portefeuilles sont conçus pour avoir des interfaces très compréhensibles que même les grands-mères peuvent facilement utiliser pour envoyer et recevoir des crypto-monnaies, ils détiennent essentiellement vos informations de compte et vos fonds. La grande majorité des portefeuilles sont des clients légers, qui accèdent uniquement aux informations les plus récentes sur la blockchain pertinentes pour votre compte à l'époque, plutôt que de stocker l'intégralité du fichier massif qu'est la blockchain. En effet, la blockchain s'allonge et nécessite donc plus d'espace avec chaque bloc, d'où le besoin de clients légers en premier lieu.
+
+Les «comptes» de la blockchain se composent de deux parties:
+
+1. Une adresse publique, donnée aux autres pour leur dire où vous envoyer la crypto-monnaie.
+
+2. Une clé privée utilisée pour signer numériquement les transactions. Cela s'apparente à un mot de passe. Si quelqu'un connaît votre clé privée, il peut efficacement envoyer votre crypto où il veut sans répercussions. Ainsi, la sécurité de votre clé privée est de la plus haute importance. Lorsque vous achetez une crypto-monnaie sur un échange, l'échange génère et stocke pour vous des adresses et des clés sur leurs serveurs. Cela signifie que vos actifs ne sont aussi sûrs que les serveurs sur lesquels ils sont stockés et les échanges sont des cibles de piratage. Pour cette raison, il est généralement recommandé de déplacer votre crypto vers un portefeuille plus sécurisé pour un stockage à long terme.
+
+Tout comme il existe différents types de comptes, il existe différents types de portefeuilles, mais contrairement aux comptes qui sont simplement classés en fonction du temps requis pour le stockage des fonds, les portefeuilles sont également classés en fonction de leur sécurité. La sécurité est une question très importante car vous avez le contrôle total de vos fonds et une petite erreur pourrait vous
+coûter votre vie.
+
+
+Portefeuilles de Bureau et Mobiles
+Ceux-ci fonctionnent en stockant vos clés privées sur le disque dur de votre appareil.Ils sont sûrs et si vous laissez tomber ou perdez votre appareil, vous ne perdrez pas votre argent (ou plutôt la possibilité d'accéder à votre argent, ce qui est à peu près la même chose), car vous pouvez récupérer vos fonds à partir des clés privées ou phrase de départ. N'importe qui peut accéder à vos fonds depuis un autre appareil s'il y reconstitue le portefeuille. Le propriétaire de la clé privée / phrase de départ est propriétaire des fonds!
+
+*Portefeuilles de Stockage à Froid*
+Les portefeuilles de stockage à froid sont largement considérés comme la meilleure option pour garder vos actifs cryptographiques aussi sûrs que possible tout en permettant une relative facilité d'accès. Un appareil de la taille d'un lecteur flash génère une nouvelle paire de clés publique et privée hors ligne,les cryptant.
+
+Les portefeuilles de stockage à froid sont parfaits pour plusieurs raisons:
+
+1. Ils sont portables - vous pouvez emporter votre crypto n'importe où!
+
+2. Ils ne sont pas sensibles au piratage.
+
+3. Vos informations ne sont stockées nulle part en ligne.
+
+4. Même si quelqu'un vole votre appareil, il ne peut pas décrypter vos clés privées.
+
+5. Il est protégé par un mot de passe et/ou une authentification à deux facteurs qui est une fonctionnalité de sécurité à double couche offerte par l'authentificateur Google (vous pouvez le télécharger sur Playstore).
+
+6. Si vous perdez l'appareil, vos informations sont récupérables avec une phrase de départ qui vous est propre.
+
+ 
+
+*Adresses*
+
+La méthode traditionnelle d'envoi d'argent par le biais des banques consiste à demander le numéro de compte et le nom du compte du destinataire, n'est-ce pas? La banque agit en tant qu'intermédiaire de confiance pour confirmer la transaction. En crypto-monnaie, cela fonctionne un peu différemment.
+
+Il y a: Adresse publique (ceci est lié à votre clé publique, donc pour cette introduction, nous y ferons référence de manière interchangeable)
+
+●Clé Privée
+Pensez à votre adresse publique comme à votre numéro de compte bancaire: n'importe qui peut vous envoyer de l'argent s'il a votre numéro de compte bancaire - c'est public. Pour recevoir une crypto-monnaie, il vous suffit de donner à l'expéditeur votre adresse publique. L'adresse est une longue chaîne aléatoire de chiffres et de lettres. Une mise à jour arrive sur Dash où vous n'aurez plus besoin d'une chaîne aléatoire de chiffres et de lettres pour envoyer Dash, mais des noms d'utilisateur lisibles et facilement rappelables dédiés à chaque adresse de portefeuille. D'autre part, si vous souhaitez envoyer de l'argent à quelqu'un d'autre via votre application de banque mobile, vous devez d'abord saisir votre mot de passe et connectez-vous à votre compte. Le mot de passe garantit que c'est bien vous qui envoyez de l'argent, au lieu d'un pirate.De la même manière, pour envoyer votre crypto à quelqu'un d'autre, vous devez d'abord saisir votre clé privée. Une clé privée est ce qui protège votre compte, elle ne doit donc jamais être partagée avec quelqu'un d'autre.
+Entrer votre clé privée pour valider ou «signer» une transaction, c'est comme dire «Ouais! C'est moi! Allez-y et envoyez un Dash à Joe. » Deux choses à noter:
+
+1. Si quelqu'un a votre clé privée, il peut envoyer votre crypto où bon lui semble et vous ne pouvez rien y faire. Il est essentiel de gardervotre clé en sécurité.
+
+2. Pour chaque crypto que vous possédez, vous utiliserez une adresse publique et une clé privée différentes. Vos clés publiques et privées sont collectivement appelées votre «paire de clés».
+
+De manière simplifiée, une adresse peut être comparée à des infrastructures physiques, comme votre résidence par exemple.
+Étant donné que votre adresse est publique, toute personne intéressée à savoir où vous habitez peut demander votre adresse et même partager l'adresse de votre maison à une autre personne. Tout le monde peut connaître votre adresse car elle est publique, mais ils ne peuvent pas entrer dans les lieux simplement en connaissant votre adresse. Une clé (la clé privée) est ce que vous utilisez pour entrer dans votre maison et n'importe qui peut difficilement le faire sans votre clé privée. Personne ne veut perdre cette clé ou donner des doubles des clés à d'autres, mais vous pouvez partager votre adresse avec une multitude lorsque vous souhaitez organiser une fête.
+
+Il est très important de sécuriser votre clé privée; autrement, c'est comme ouvrir votre maison pour que tout le monde se comporte comme un propriétaire.
+
+*Posséder une crypto-monnaie*
+
+Pour posséder une crypto-monnaie, vous devez créer un portefeuille. Un portefeuille est un logiciel utilisé pour recevoir, stocker et dépenser crypto-monnaies. Un portefeuille vous aide à recevoir, stocker et dépenser des crypto-monnaies via vos clés publiques et privées. Les portefeuilles sont donc des installations pour héberger la crypto-monnaie et peuvent être comparés une foisde plus à une maison réelle. La clé publique du portefeuille vous aide à recevoir la crypto-monnaie tandis que les clés privées permettent d'accéder à leur utilisation pour effectuer des transactions.
+
+Les portefeuilles vont au-delà de simplement vous aider à recevoir et à dépenser des crypto-monnaies. Ils établissent une connexion entre vous et la plateforme et peuvent vous aider à connaître la valeur actuelle d'une crypto-monnaie. Ils affichent votre solde, l'historique de vos transactions et vous aident à sélectionner vos préférences, telles que le montant des frais de transfert que vous souhaitez utiliser en fonction de la vitesse souhaitée d'envoi de crypto-monnaie.
+
+Après avoir créé un nouveau portefeuille numérique vide qui peut stocker, recevoir et envoyer de la monnaie numérique, mais dans certains cas, un bonus (petite valeur de crypto-monnaie) se charge pour le coût du gaz (le gaz fait référence à la valeur de tarification requise pour mener à bien une transaction ou exécuter un contrat sur la plate-forme Ethereum blockchain) et une utilisation précoce de cette monnaie numérique auraient pu être attribuées à un portefeuille nouvellement créé pour pouvoir initier une transaction. Cela ne s'applique pas à tous les portefeuilles, mais est disponible pour quelques portefeuilles numériques en tant que frais de bonus pour commencer la transaction avec des frais de bonus particulièrement bas. En général, un portefeuille de crypto-monnaie nouvellement créé est vide et vous devez recevoir la crypto-
+monnaie dans votre portefeuille soit:
+
+*a) Réception / demande de crypto-monnaie*
+
+Vous pouvez posséder une crypto-monnaie lorsque quelqu'un vous l'envoie. Qu'il s'agisse d'un paiement pour un bien que vous avez vendu, d'un service que vous avez commandé ou d'un cadeau d'anniversaire, vous pouvez recevoir une crypto-monnaie directement dans votre portefeuille d'un autre utilisateur. L'expéditeur doit d'abord connaître l'adresse publique de votre portefeuille, à laquelle l'utilisateur peut envoyer, ou s'il utilise un
+
+*b) Achat de crypto-monnaie*
+
+Vous pouvez acheter des crypto-monnaies via un échange. Les échanges permettent aux utilisateurs d'acheter et de vendre des crypto-monnaies pour une monnaie fiduciaire connue comme un échange OTC (over the counter) ou fiat exchange. Vous pouvez également acheter des crypto-monnaies avec d'autres crypto-monnaies ou acheter avec des cartes-cadeaux. Certaines plates-formes d'échange connectent les utilisateurs, scrutant quelqu'un qui veut acheter avec un autre qui veut vendre, connu sous le nom d'échange d'égal à égal. Certains autres vendent simplement le montant demandé à l'acheteur en échange d'une monnaie fiduciaire (OTC).
+
+Les échanges créent des portefeuilles que les utilisateurs peuvent acheter et vendre. Cependant, il n'est pas complètement sûr de stocker votre crypto-monnaie sur un échange. Stocker votre crypto-monnaie avec un échange permet à un tiers d'accéder à vos fonds et de les contrôler, ce qui l'expose à la fraude. De plus, les échanges sont victimes d'attaques et y sont souvent vulnérables.
+
+Il est conseillé de déplacer des quantités importantes de crypto-monnaie d'un échange vers un portefeuille plus sûr.

@@ -1,0 +1,196 @@
+*Qu'est-ce que Dash?*      
+
+Dash est Digital Cash, une crypto-monnaie axée sur l'utilisateur, que vous pouvez dépenser n'importe où, n'importe quand et n'importe quel montant pour des frais inférieurs à 1 centime. Les utilisateurs peuvent décider de profiter des offres optionnelles de confidentialité de Dash.
+
+*Histoire de Dash*
+
+En janvier 2014, Evan Duffield a créé XCoin, qui est devenu DarkCoin et enfin Dash. Il a créé la crypto-monnaie en raison de problèmes de confidentialité dans le réseau Bitcoin. Il voulait créer une crypto-monnaie extrêmement privée avec des confirmations plus rapides.
+
+Dash est complètement décentralisé, ce qui signifie qu'il n'a pas besoin d'un tiers (comme une banque) pour fonctionner. Un enregistrement, ou un grand livre, de toutes les transactions et des avoirs de compte sont conservés sur des milliers d'ordinateurs individuels dans le monde, qui vérifient constamment les autres activités correspondantes. Cela désintermède efficacement (dans ce cas, nous voulons dire que le pouvoir est supprimé d'une seule autorité - sur le plan technologique) du réseau et garantit le fair-
+play.
+
+Le réseau Dash est distribué, les transactions sont vérifiées par des personnes qui mettent la puissance de leur ordinateur au service de l'ensemble du système. Ces personnes, appelées mineurs, sont
+récompensées par Dash nouvellement créé pour leur travail. Le taux de création de Dash diminue au fil du temps dans un processus appelé désinflation. Bien que Dash ait un taux d'inflation constant sur une courte période de temps, en raison du protocole, ce taux diminue à un taux d'environ 7% chaque année. Finalement, cela signifiera que Dash n'a plus d'inflation, ce qui est une politique monétaire appelée désinflationniste
+
+Outre les mineurs, le réseau Dash dispose d'un système de masternodes, qui est un groupe d'utilisateurs qui exécutent des masternodes - ils ont une copie complète de la blockchain. Masternodes ont mis 1000 dans un portefeuille qui agit comme une
+forme de garantie, bien qu'il puisse être déplacé à tout moment, ce qui disqualifie le nœud complet d'être considéré comme un Masternode. En facilitant les activités du réseau telles que InstantSend, PrivateSend (plus sur ces derniers plus tard),
+empêchant 51% des attaques (ce qui signifie qu'une personne ou un groupe de personnes contrôlant le réseau à des fins égoïstes), les masternodes reçoivent des paiements du réseau (45% des pièces
+nouvellement créées ) et sont autorisés à voter sur les propositions.
+
+En plus de payer les masternodes et les mineurs, 10% des pièces nouvellement créées vont au Dash Dash, un fonds communautaire qui paie pour le développement, la commercialisation, l'emploi et plus encore. Seuls les masternodes sont autorisés à voter sur les propositions.De cette façon, les masternodes détiennent beaucoup de pouvoir, mais leurs garanties les incitent à agir avec justice. Le système de trésorerie n'est qu'une des choses qui rendent Dash si spécial et tout le monde peut postuler!
+
+Dash fonctionne sur deux systèmes de consensus (confirmation) - Proof of Work (blockchain) et Proof of Service (masternodes).
+
+Les preuves de travail sont fournies par des mineurs, tandis que les preuves de service sont fournies par des masternodes, où certaines personnes sont prêtes à implanter une certaine quantité de Dash dans le réseau pour montrer leur engagement envers le réseau et exécuter des tâches spécifiques.
+
+*Qu'est-ce que Dash nous permet de faire?*
+
+En utilisant un protocole distribué, nous pouvons envoyer de l'argent rapidement et à moindre coût partout dans le monde. Tant que vous avez Internet, vous pouvez utiliser Dash, quel que soit le pays dans lequel vous vous trouvez, quelle heure il est et quel que soit le montant que vous souhaitez envoyer. Internet nous permet d'envoyer des informations rapidement, facilement et de manière omniprésente (partout dans le monde); Dash nous permet d'envoyer de la valeur rapidement, facilement et de manière omniprésente.
+
+Les crypto-monnaies comme Dash ont de la valeur non seulement parce qu'elles envoient des informations, mais elles garantissent également mathématiquement que ces informations sont correctes, c'est-à-dire sans double dépense.
+
+Dash est un système de paiement qui n'existe que numériquement et fonctionne différemment des systèmes auxquels nous sommes habitués. Dash est un système de paiement mondial. Essayez-vous d'envoyer de l'argent à tante Jane en Russie?
+
+À un astronaute sur l'ISS? Ne vous inquiétez pas, vous pouvez toujours utiliser Dash. Envoyer de l'argent à votre voisin est le même que de l'envoyer à l'autre bout du monde.
+
+Dash supprime les tiers (comme les banques et les sociétés de cartes de crédit) des transactions. Personne d'autre que vous ne peut contrôler vos fonds.
+
+Dash a été conçu pour avoir des frais de transaction faibles et des délais de transaction rapides.
+Le réseau Dash protège votre identité.Il n'utilise pas de noms pour identifier les comptes - au lieu de cela, ils sont identifiés par des chaînes aléatoires de chiffres et de lettres.
+
+*Features of Dash*
+
+Comme beaucoup d'autres crypto-monnaies, Dash utilise une blockchain pour enregistrer les transactions au fil du temps. Il a deux fonctionnalités superposées à celles qui sont intéressantes à discuter.
+
+*InstantSend*
+
+Dans une situation de vente au détail, les commerçants et les clients ont besoin de confirmations ultra-rapides. Certaines crypto-monnaies ont un temps de confirmation de plus d'une demi-heure! C'est tout simplement trop long pour être utilisable par exemple pour les commerçants.
+
+Avec Dash, vous pouvez envoyer de l'argent en une seconde seulement, grâce InstantSend. Un petit groupe de Masternodes sélectionnés au hasard accélère, confirme et envoie votre transaction immédiatement. Cette fonction n'est exécutée que par
+les masternodes et prend environ 1 seconde.
+
+*Transfer privee*
+
+Si vous protégez étroitement votre vie privée, PrivateSend est fait pour vous. Bien qu'aucun nom ne soi t utilisé sur la blockchain de Dash, des `` numéros de compte '' (adresses) cohérents sont utilisés.Cela signifie que lorsque vous envoyez Dash quelque part, tout le monde peut voir où vous l'avez envoyé. En effet,comme mentionné précédemment, les adresses sont comme des boîtes aux lettres publiques dont le contenu est visible par tous. Sauf si vous utilisez PrivateSend dans Dash, ou CashShuffle dans BCH, ou le portefeuille Wasabi dans BTC.Il s'agit d'une autre fonctionnalité de masternode pour ceux qui souhaitent que leurs transactions soient privées. Les masternodes prendront le Dash que vous souhaitez envoyer et le mélangeront dans un groupe de Dash provenant d'autres personnes utilisant PrivateSend. Les masternodes distribuent ensuite le Dash aux adresses finales. De cette façon,la destination finale de votre transaction est masquée.
+
+*Honoraires*
+
+C'est l'une des meilleures fonctionnalités de Dash, les frais moyens pour une transaction Dash ne sont que de 12 kobo, oui je veux dire seulement 12 kobo # 0,12, beaucoup moins d'un centime. C'est super bon marché et cela signifie que vous pourriez faire plus de 100 transactions par jour avec seulem ent # 12 dépensé en frais de transaction. Vous pouvez envoyer de l'argent en Dash à vos amis et votre famille dans des endroits éloignés tels que la Chine, la Russie, le Zimbabwe, etc. avec les mêmes frais de transaction que vous utiliserez pour envoyer à votre voisin, c'est la liberté d'argent dans la forme la plus pure.
+
+*Système de trésorerie.*
+Une autre caractéristique unique de Dash est le système de trésorerie. Avec la plupart des autres crypto-monnaies, toutes les pièces nouvellement extraites vont aux mineurs. Dans le réseau Dash, 45% vont aux mineurs, 45% vont aux Les masternodes et 10% des pièces nouvellement extraites vont à un trésor communal, qui finance le développement de Dash.
+
+Voyons pourquoi cela est si important. La plupart des autres crypto- monnaies avaient un gros pot de leur pièce lorsque la pièce a été lancée et ont vendu leurs magasins au fil du temps afin de poursuivre le travail de développement. Dash, d'autre part, est l'un des seuls projets à générer des revenus durables. Le Trésor est bien financé et peut soutenir des projets et embaucher des entrepreneurs qui bénéficient au réseau. Tout le monde est autorisé à soumettre une proposition au réseau moyennant des frais, utilisés pour dissuader les spammeurs. Les Masternodes votent sur les propositions et parviennent à un consensus pour approuver ou désapprouver. Chaque dépense du réseau Dash est votée de cette façon, même les salaires des entrepreneurs et des employés!
+
+*Masternodes*
+
+Un Masternode, un concept lancé à l'origine par Dash, est simplement un nœud complet ou un portefeuille informatique qui conserve la copie complète de la blockchain en temps réel. Destiné à résoudre différents problèmes qui ont laissé les crypto-monnaies telles que Bitcoin intimidées.
+
+Les masternodes diffèrent des autres nœuds uniques par leur fonctionnalité car ils remplissent des fonctions spéciales telles que:
+transactions instantanées, envoi privé et gouvernance et vote décentralisés.
+
+Il existe 3 types de nœuds dans la blockchain: le nœud ordinaire, le nœud complet et le masternode. Chacun de ces nœuds a des responsabilités et des fonctionnalités différentes.
+
+Les nœuds ordinaires par exemple sont considérés comme l'épine dorsale de toute crypto-monnaie. Leur fonction principale est de sécuriser la blockchain et également d'éviter les doubles dépenses.
+
+Les nœuds complets, en revanche, se distinguent des nœuds ordinaires par leur fonctionnalité, car ils contiennent une copie complète de la blockchain en temps reel temps. Ils peuvent également se connecter à plus de 124 autres nœuds alors que d'autres nœuds ne peuvent se connecter qu'à 8. Les Masternodes se distinguent par leur fonctionnalité et leur          responsabilité et, par conséquent, ils deviennent de plus en plus populaires auprès des investisseurs en cryptographie aujourd'hui.
+
+Les masternodes comme mentionné précédemment fournissent des fonctions spéciales telles que InstantSend, PrivateSend et le stockage de la blockchain entière. Les masternodes ont également le privilège de voter sur les propositions de gouvernance et de financement, chaque masternode recevant un vote sur chaque proposition soumise au système. Le 25 mai 2014, Dash a présenté les masternodes, ce qui en fait la première crypto-monnaie à adopter les masternodes. Maintenant, de no mbreuses crypto-monnaies ont adopté des masternodes sur leurs chaînes de blocs. Certaines de ces crypto-monnaies sontZION, Bata, PIVX, Zcoin, Bitsend, Neutron, Amsterdam coin, ColossusCoinXT, Bulwark et ainsi de suite.
+
+Les masternodes sont des ordinateurs qui permettent le traitement des transactions au sein d'une blockchain et en retour, reçoivent une récompense des blocs créés, tandis que les mineurs confirment les transactions en fin de compte. En tant que système de validation lié, les mineurs sont une série de serveurs qui sous-tendent le réseau d'une blockchain, tandis que les masternodes fournissent d'autres services. Chaque service que la preuve de travail des mineurs ne peut pas accomplir est activé par des masternodes.
+
+Mis à part les avantages mentionnés qui accompagnent l'exécution d'un masternode, c'est également une bonne source de revenus passifs.
+
+Il existe plusieurs façons de gagner de l'argent avec des crypto- monnaies, la plus courante étant le commerce sur des bourses telles que la binance. Cependant, exécuter un masternode est également
+un moyen intéressant de gagner de l'argent dans la cryptosphère.
+
+Par exemple, l'exécution d'un masternode sur la blockchain Dash gagne une récompense de 45%, tandis que les mineurs obtiennent 45% et 10% pour le trésor du DAO. Un Dash Masternode nécessite 1000 DASH en garantie.Cependant, la garantie n'est pas définitivement verrouillée.Elle peut finalement être retiré ou vendu chaque fois que l'investisseur le souhaite. Selon le site Web de Dash, cela se traduit par 2 Dash chaque semaine et, finalement, 10% des 1000 Dash initiaux investis au bout d'un an.
+
+Comme tout autre investissement, investir dans des systèmes Masternode est également très risqué. Il est important d'évaluer certains aspects clés de tout masternode. Ces facteurs comprennent, sans s'y limiter:
+
+  Le système de récompense sur le masternode
+  La demande de pièces
+  La mise minimale
+  La convivialité et l'acceptabilité de la pièce
+  Changements probables de récompense de bloc
+
+L'innovation Masternode en tant qu'initiative bien pensée a acquis une reconnaissance et une adoption mondiales. Comme mentionné précédemment, certaines crypto-monnaies ont activé les masternodes sur leurs chaînes de blocs.Il est intéressant de noter que les pays africains ne sont pas en reste dans cette évolution. Les pays africains ont récemment amélioré considérablement leur acceptabilité de la technologie de la chaîne de blocs. Bien que d'autres continents comme l'Asie et l'Europe soient loin devant, les pays africains comme le Nigeria, l'Afrique du Sud et le Kenya adoptent raisonnablement les derniers développements.
+
+En savoir plus sur les fonctionnalités spéciales de Dash Amélioration de la confidentialité des transactions
+
+Une amélioration majeure de Dash par rapport à Bitcoin est sa capacité subtilement intéressante à sécuriser l'anonymat des transactions. Comme observé sur la blockchain Bitcoin, toutes les transactions sont enregistrées publiquement sur le grand livre, chaque bloc révélant l'adresse de l'expéditeur, l'adresse du destinataire et le montant traité. Cela compromet gravement la confidentialité et la sécurité des utilisateurs, car cette ouverture expose les transactions à la surveillance.
+
+Étant donné que la confidentialité est sans aucun doute un facteur avec lequel personne ne joue, il y a eu des problèmes sur la façon dont Bitcoin, Ethereum et certaines autres crypto-monnaies qui gèrent un grand livre public des transactions sans prévoir de confidentialité. Des problèmes tels que le piratage et le vol de fonds dans les portefeuilles sont les conséquences de cette insécurité.
+
+Dans le but de sauver la situation, Dash a introduit le masternode pour fournir une fonction PrivateSend. Cela utilise un service de mélange de pièces décentralisé qui a été muté de Coinjoin. L'objectif est de protéger les transactions autant que possible en regroupant plusieurs transactions en un paiement conjoint, masquant ainsi les entrées et les sorties de toutes les transactions individuelles.
+
+Bien que Coinjoin ait connu un certain niveau de critique sur la vulnérabilité des transactions des utilisateurs en raison des serveurs centralisés, de la conservation des fonds et du temps de mixage lent,
+entre autres. Dash a muté l'idée de manière innovante en allant plus loin. En tirant parti des dénominations, de la décentralisation, de l'approche de chaînage et du mélange passif à l'avance p our corriger ces vulnérabilités, Dash est en mesure de redonner le sourire à tous les utilisateurs de crypto-visages.
+
+Les transactions PrivateSend nécessitent au moins 3 utilisateurs et des dénominations communes (0,01, 0,1, 1, 10, 100 Dash) pour éviter d'exposer les incréments d'entrée et de sortie. Une fois qu'une transaction PrivateSend est lancée par 3 utilisateurs ou plus, leurs entrées, sorties et dénominations correspondantes sont diffusées vers un masternode sélectionné au hasard qui, à son tour, mélange les transacti ons. Une approche en chaîne est utilisée pour masquer davantage les marques de transaction. Cela implique de passer les transactions à travers plusieurs masternodes pour un maximum de 8 cycles de mélange.
+
+Grâce à l'innovation réussie de la fonction PrivateSend, les utilisateurs de masternode peuvent désormais choisir d'effectuer des transactions en privé sans craindre d'être contrôlés, car les transactions peuvent désormais être aussi privées qu'elles le souhaitent.
+
+*Transactions Instantanées*
+
+Ce n'est plus une nouvelle que certaines crypto-monnaies telles que Bitcoin mettent autant de temps à confirmer les transactions. Cela a eu une influence négative sur l'adoption des crypto-monnaies. Dash a observé cette situation apparemment moins attrayante et a cherché une solution; Masternodes. Les masternodes permettent à la blockchain Dash de fonctionner à une vitesse très élevée lorsqu'il s'agit de vérifier les transactions. Les masternodes améliorent la vitesse en verrouillant les entrées et en les empêchant d'être dépensées jusqu'à ce qu'elles puissent être incluses dans le bloc, elles propagent ce verrou au réseau instantanément, ce qui atténue les goulots d'étranglement des transactions et permet une réactivité instantanée, grâce aux masternodes + verrouillages.
+
+ 
+
+*ChainLocks*
+
+Dash a mis en œuvre une nouvelle mise à niveau réseau unique qui "éliminerait" la menace d'une attaque à 51% du protocole.
+
+ChainLocks permet de confirmer et de sécuriser les transactions dès que le bloc a été traité, plutôt que d'attendre que six autres blocs soient signés en premier. Cela rend presque impossible pour les mineurs de provoquer des réorganisations de chaîne. Les blocs, voire les chaînes, qui ne sont pas publiés peuvent être rapidement invalidés par tout bloc confirmé avec une signature ChainLock(CLSIG). Il a été proposé par un membre de l'équipe centrale de développeurs du réseau.
+
+La plupart des blockchains Proof-of-Work (PoW) sont vulnérables à 51%, ou aux attaques de consensus; lorsqu'un mineur possède plus de la moitié de la puissance de hachage du réseau. Cela leur permet de reprendre le réseau, de valider ou d'invalider toute transaction qu'ils souhaitent.Les attaques précédentes de 51% ont perturbé le réseau; certains craignent qu'ils puissent également être utilisés comme une forme de sabotage industriel contre une blockchain rivale.
+
+*Comment ChainLocks sécurise-t-il Dash?*
+
+CChainLocks fonctionne sur le niveau Masternode, via une application connue sous le nom de Long Living Masternode Quorums (LLMQs). En termes simples, cela améliore le mécanisme de vote du réseau en permettant de prendre des décisions sans nœuds individuels - presque 4 900 actuellement actifs - avoir à propager leurs signatures.
+
+Avec ChainLocks, les blocs sont confirmés par un quorum; la majorité des membres du collège - les Masternodes - doivent se mettre d'accord sur le bloc qui a été le premier. Une fois que plus de 60% sont d'accord, un CLSIG est ensuite envoyé a reste de la communauté Masternode, confirmant essentiellement quel bloc était le premier. Le réseau rejette ensuite les autres blocs. Les blocs secrètement extraits et traités ajoutés pour désorganiser le réseau lors d'une attaque à 51%, sont rapidement invalidés.
+
+Les LLMQ sont constitués de masternodes sélectionnés au hasard, ce qui les rend largement représentatifs de l'ensemble total. Si 60% d'un quorum sont d'accord sur ce qu'est le premier bloc, cela devrait généralement être une majorité de la communauté de validateurs Dash. Étant donné que les LLMQ sont uniques au réseau Dash, Dash serait le seul réseau capable d'implémenter ChainLocks. «Pure Proof of Work n'est sécurisé contre 51% des attaques minières que si les hypothèses de base derrière l'économie minière et la rationalité des p\articipants se maintiennent», a déclaré Alexander Block, développeur principal de Dash Core Group, qui a développé ChainLocks. "Dash a un avantage unique ici, car nous pouvons tirer parti de notre réseau Masternode résistant aux attaques Sybil et des LLMQ pour ajouter plus de sécurité en plus de la preuve de travail, ce qui nous permet d'éliminer les risques d'attaques minières à 51%."
+
+Ryan Taylor, PDG de Dash Core Group, tout en discutant des perspectives de l'innovation a déclaré: «Il s'agit d'une mise à niveau passionnante pour nous alors que nous continuons à progresser sur le lancement de Dash Evolution. Il améliorera de nombreuses fonctions clés du réseau Dash, notamment InstantSend et PrivateSend prennent en charge de nouveaux types de transactions qui jettent les bases de nombreuses utilisations futures de la plate-forme Dash, telles que la possibilité de créer des applications ou de joindre des métadonnées aux transactions. » Cela a fait de Dash la monnaie numérique la plus sécurisée et le système de paiement basé sur la blockchain le plus convivial au monde. Dash Core Group lancera DashPay, une application orientée consommateur pour démontrer les fonctionnalités de l'évolution de Dash.
+
+*Participation à la Gouvernance*
+
+Les utilisateurs de Masternode sont des utilisateurs de réseau très appréciés et, en tant que tels, ont leur mot à dire sur l'avenir du réseau. Ils ont le privilège de voter sur certaines motions là où les autres participants ne le peuvent pas. L'un des problèmes auxquels sont confrontées les crypto-monnaies est la gouvernance. Par exemple, Bitcoin qui manque de gouvernance souffre de non-évolutivité. Cela signifie que la blockchain ne fonctionne que dans un format préprogrammé et qu'il n'y a pas de place à amélioration. Cependant, avec la blockchain activée par masternode, un consensus peut être atteint car les utilisateurs ont le privilège de voter dans le processus de prise de décision.
+
+Le débat sur la taille des blocs de Bitcoin a duré environ 5 ans et a abouti à plusieurs fourchettes de Bitcoin tandis que Dash l'a résolu
+facilement en votant. Un fork Bitcoin est un terme utilisé pour représenter un autre projet mis en place par un rassemblement ou une personne qui prend la base de code Bitcoin et une copie de la
+blockchain Bitcoin. Ces nouveaux projets fonctionnent sur leur propre ensemble de règles différentes de celles qui régissent le Bitcoin. Comme ils proviennent de la blockchain Bitcoin, ils peuvent reconnaître les détenteurs de Bitcoin pour de nouvelles pièces `` fourchues '' sur leur nouvelle blockchain. Ce qui signifie qu'un
+détenteur de Bitcoin aura à la fois ses Bitcoins uniques et ses pièces `` fourchues ''.
+
+*Pourquoi Dash?*
+
+Le mot tiret rappelle la vitesse, le rythme et l'accélération. Pour les fans de bandes dessinées, on se souvient de Dash, l'un des personnages The Incredibles connus pour sa vitesse étonnante. Cette fonctionnalité est l'une des nombreuses raisons pour lesquelles Dash se distingue comme une crypto-monnaie; la vitesse de transaction est très rapide. La vitesse est un élément vital pour les transactions, satisfaisant nos besoins d'immédiateté. Pour les commerçants, il n'y a pas de meilleure assurance de leur confiance en un acheteur que de recevoir leur argent le plus tôt possible et dans la plupart des cas immédiatement. C'est pourquoi la monnaie réelle est préférée pour les transactions quotidiennes plutôt qu'un chèque car si l'un transfère immédiatement la valeur, l'autre doit être transformé.
+
+Dans la tendance à l'adoption de la crypto-monnaie, la vitesse doit être intégrée dans un projet. Dash se démarque dans ce domaine, innovant des idées pour répondre à l'exigence de vitesse pour l'adoption propagée de la crypto-monnaie dans tous les domaines.Contrairement à de nombreux autres projets qui prennent des minutes ou des heures pour effectuer un transfert de valeur, Dash le fait en quelques secondes. Le bitcoin, par exemple, nécessite un temps d'attente pour que les transactions soient confirmées, ce qui ne convient pas aux paiements au point de vente. En effet, les nœuds participants doivent synchroniser le dernier bloc et attendre un certain temps pour confirmer les transactions dans la blockchain.
+
+Cependant, l'objectif de Dash est de devenir un système de paiement pour les activités quotidiennes régulières. Dash a conçu des moyens ingénieux, s'appuyant sur le modèle Bitcoin et y apportant des modifications pour établir une crypto-monnaie décentralisée, désintermédiée et fortement anonyme avec des transactions instantanées immuables à des frais presque nuls. Dash est conçu pour faciliter la vitesse, la sécurité, la confidentialité ete monnaie Dash le fait et l'abordabilité.
+
+Dash a un système de gouvernance, de prise de décision et de budgétisation géré par la communauté. La communauté active n'a pas d'autorité centrale et chaque participant à la communauté a son mot à dire. De plus, Dash exploite un modèle autonome et autofinancé qui permet au réseau Dash de payer des particuliers ete monnaie, Dash le fait et des entreprises pour un travail qui ajoute de la valeur au réseau. Ce système de gouvernance et de budgétisation décentralisé en fait le pionnier d'une organisation autonome décentralisée (DAO) réussie.
+
+Les frais de transaction Dash sont abordables, très inférieurs à un cent, quel que soit le montant envoyé. Les frais pour la rapidité énorme des transactions sont négligeables et cela réitère que c'est la meilleure solution pour le commerce et le commerce. La fonctionnalité de confidentialité qu'Instasend permet est également un excellent point pour les utilisateurs, ne laissant aucune empreinte numérique des transactions, une innovation qui est en cours d'intégration dans certaines autres crypto-monnaies.
+
+Le fonctionnement de Masternodes protège Dash contre les attaques, car un attaquant devra disposer d'au moins 51% du réseau total pour l'attaquer. Un millier de Dash est nécessaire pour devenir un Masternode et il est pratiquement impossible d'acheter la quantité requise pour attaquer le système à partir d'autres Masternodes qui se comptent par milliers. Par conséquent, aucune entité unique ne peut déterminer le résultat du réseau.
+
+Par conséquent, si vous voulez une crypto-monnaie qui désire vous offrir le meilleur des fonctionnalités que vous pouvez imaginer avec la monnaie numérique, ou n'importe quelle monnaie, Dash le fait et évolue constamment pour continuer à le faire. Le projet a des développeurs brillants et une communauté dynamique et dynamique qui est ouverte à toutes les personnes intéressées.
+
+
+*Comment Dash comble le fossé de l'adoption et de l'utilisation*
+
+Dash propose des paiements instantanés peer-to-peer avec des micro-frais et est accepté par des milliers de marchands à travers le monde. Dash est fantastique, mais la communauté Dash n'attend pas que son caractère unique propage son impressionnant. La communauté Dash fait pression pour l'adoption de Dash, en particulier par les commerçants à travers une série de programmes et son innovation continue. À travers l'Afrique, l'Asie, l'Europe et le reste du monde, Dash est évangélisé d'une manière qui stimule
+                                                                
+l'intérêt et motive les commerçants à l'adopter.
+
+Dash est accepté par de nombreux commerçants dans le monde.Ces commerçants ont adopté Dash comme moyen de paiement principalement en raison des frais requis pour un transfert réussi. Dash utilise le pouvoir de l'éducation et du divertissement pour pousser à son adoption. Il existe des communautés physiques Dash, des conférences régulières, des rencontres, des organisations étudiantes, des rencontres entre commerçants et de nombreuses autres plateformes pour l'illumination et la formation continue. L'éducation s'est révélée très efficace car elle facilite la compréhension de la technologie de la blockchain et de son mérite, donne aux utilisateurs une compréhension de la crypto-monnaie, leur fait apprécier l'efficacité de Dash et leur apprend à l'utiliser. Grâce à ceux-ci, la communauté dissipe les perceptions négatives des personnes et des autorités réglementaires du monde entier. La
+communauté combine le pouvoir éclairant de l'éducation avec la perspective attrayante du divertissement. Chaque réunion Dash a des débutants qui sont fascinés et qui commencent à l'utiliser et à faire passer le mot. Ces activités sont conçues pour deux acteurs clés essentiels à son adoption;marchands et acheteurs.
+
+Ainsi, tout en augmentant les perspectives d'utilisation et l'augmentation des transactions, les commerçants apprennent à adopter Dash comme système de paiement alternatif.
+
+Dash exécute un superbe projet et ce qui est plus excitant, c'est qu'ils innovent et développent constamment de nouvelles idées et stratégies pour une adoption accélérée et une facilité d'utilisation
+accrue. Lorsque les entreprises prennent en compte les avantages de Dash grâce à ses fonctionnalités, elles se laissent influencer par l'énorme valeur ajoutée qu'elle apporte à leurs entreprises. Ils
+peuvent voir Dash comme un moyen d'améliorer et de faire évoluer leurs entreprises lorsqu'ils considèrent la rapidité des transactions offertes par InstantSend, l'abordabilité des frais quasi nuls, la possibilité de confidentialité via PrivateSend, la sécurité de leurs transactions et la protection de leurs fonds.. Les util\isateurs sont également ravis davoir unmoyen d'envoyer de la valeur à travers le monde, à n'importe qui, n'importe où et à tout moment à un rythme fulgurant. Le système mondial unificateur vous donne l'assurance que l'aide financière est toujours proche, car vous pouvez envoyer instantanément de l'argent à un ami quand il aperçoit un beau costume mais n'a ni argent ni crypto-monnaie.
+
+Des idées similaires à cela sont l'utilisation de Dash Text, qui est populaire en Espagne, Venezuela, Colombie, États-Unis et autres pays. Dash a été intégré pour une utilisation avec Telegram et a été adopté par l'application de messagerie inflexible. Le texte Dash permet d'envoyer et de recevoir Dash via la messagerie texte et est disponible sur les téléphones fonctionnels /bas de gamme. Cela rend
+l'inclusion possible pour plus de personnes plutôt que pour quelques privilégiés.
+
+Ces idées ouvrent l'adoption à n'importe qui, avec ou sans expertise technique, et augmenteront l'inclusion financière.
+
+Dash a une feuille de route ambitieuse et un historique de livraison éprouvé dans ses efforts pour améliorer la convivialité, augmenter l'adoption, offrir de la valeur et étendre l'inclusion financière. Dash ne recule pas pour se positionner sur le marché des crypto-monnaies et promouvoir l'adoption des crypto-monnaies. La communauté se distingue par la création d'idées brillantes et leur mise en œuvre. Une autre poussée innovante pour l'adoption est Dash Evolution, qui est discutée ci-dessous.
+
+*Dash Evolution*
+
+L'équipe Dash a travaillé sur un projet appelé Evolution, qui amènera Dash au grand public. Dash Evolution est destiné à permettre à la crypto-monnaie d'être intégrée avec les utilisateurs de détail et les commerçants. Bien que les spécificités techniques soient complexes, Evolution permettra à Dash d'être utilisé par de nombreux détaillants à travers le monde. Les utilisateurs pourront s'envoyer des fonds avec des noms d'utilisateur et non des adresses anonymes, ce qui rend la plate-forme entière beaucoup plus
+conviviale.
+
+Dash Evolution est une plateforme de paiement décentralisée basée sur la technologie de la blockchain Dash. L'objectif est de fournir un accès simple aux fonctionnalités et avantages uniques de Dash pour aider à la création d'une technologie décentralisée. Dash présente une conception de réseau à plusieurs niveaux, qui permet aux utilisateurs d'effectuer diverses tâches pour le réseau, ainsi qu'un accès API décentralisé et un système de fichiers décentralisé.
+
+Il est conçu pour rendre la crypto-monnaie facile à utiliser pour tout le monde, même lorsqu'ils ne sont pas technophiles. La plate-forme améliorera les systèmes de paiement en permettant aux entreprises et aux développeurs de créer des applications conviviales de type Venmo qui permettent aux gens de créer des comptes avec des noms d'utilisateur personnalisés au lieu d'adresses cryptographiques pour les transactions Dash. De plus, Evolution permettra aux développeurs de créer des applications décentralisées sans avoir à exécuter un nœud complet, car un tel développement sera exécuté sur un hébergement décentralisé. Evolution contribuera à une utilisation plus pratique et pratique de
+Dash en facilitant le processus grâce à l'introduction de noms d'utilisateur à la place des adresses publiques.
+
+Il permettra à différents comptes sur chaque portefeuille de répondre à différents besoins de paiement.

@@ -1,0 +1,203 @@
+*Cas d'utilisation de chaînebloc*
+
+La technologie blockchain est multidimensionnelle. Il peut être déployé dans des paradigmes innovants existants et émergents. La technologie blockchain est souvent considérée comme une crypto-
+monnaie, mais cela la limite à une seule application à partir d'un pool de fonctions qu'elle peut être utilisée pour effectuer. Il va au-delà
+des crypto-monnaies et des services financiers et s'étend à toutes les formes d'entrerises et de technologies et il peut être déployé de nombreuses manières et certaines d'entre elles sont:
+
+*Gouvernance*
+
+La technologie de la blockchain peut transformer les modèles de gouvernance des gouvernements et des entreprises nationaux. Les organisations internationales peuvent également avoir des modèles
+de gouvernance plus efficaces grâce à l'intégration de la technologie dans l'administration. La technologie de la blockchain peut améliorer la gouvernance en facilitant un nouveau modèle de vote, en gardant l'identité des citoyens et en enregistrant les transactions, les décisions et la propriété des actifs. Il peut en outre être déployé
+dans la budgétisation et la gestion des fonds publics.
+
+*Stockage de Données*
+
+L'identité et les dossiers des citoyens, ainsi que sa documentation appropriée, sont essentiels pour l'administration, mais les systèmes existants sont inefficaces pour gérer ces besoins. La documentation
+d'identité est sujette à la falsification, la perte et la difficulté à vérifier. L'identité et les dossiers des citoyens peuvent être stockés
+sur la blockchain. En plus de cela, les casiers judiciaires, les dossiers judiciaires et même les dossiers privés des individus (testaments, par exemple) peuvent être stockés sur la blockchain. Il est également sécurisé car il peut être crypté et facilement vérifié. Les nations et les organisations peuvent également déployer la technologie blockchain lors du vote (élections). Le vote via la
+blockchain réduit les risques de manipulation, car les résultats ne peuvent pas être falsifiés.
+
+*Soins de Santé*
+
+Le secteur de la santé est tributaire des données des patients et les difficultés résultant du stockage des données d'un patient à l'aide de
+moyens traditionnels (tels que le papier) ou de formulaires numériques centralisés sont nombreuses. Premièrement, les données sont inaccessibles à quiconque n'a pas accès au stockage
+central et les patients devront se faire reprendre les détails essentiels. Cela fait perdre du temps et de l'argent. Stocker les données d'un patient sur la blockchain et permettre l'accès aux médecins, aux patients, aux agences d'assurance maladie et aux autres parties nécessaires aidera à créer des données inviolables, à assurer un service de rendu médical rapide et des recommandations appropriées par les médecins et à promouvoir les paiements rapides par les compagnies d'assurance.
+
+*Gestion de la Chaîne Logistique*
+
+Le mouvement des marchandises à travers les frontières est un aspect important du commerce mondial. La gestion de la chaîne d'approvisionnement vise à améliorer la confiance dans la livraison
+des marchandises et l'utilisation de la blockchain rendra le processus plus transparent. Au-delà de la tenue de registres immuables, la technologie peut aider à améliorer la vitesse en réduisant les points
+de friction traditionnels.
+
+La blockchain peut en outre être déployée dans la fourniture de denrées périssables (comme la nourriture). La blockchain peut être
+utilisée pour rendre le processus d'approvisionnement plus transparent et traçable. Il facilite la visibilité et la responsabilité des
+approvisionnements alimentaires et fait également connaître aux parties des détails tels que l'origine, le stockage et la date d'expiration. IBM Food Trust le fait en utilisant la blockchain. La
+solution relie les participants tels que les agriculteurs, les transformateurs, les grossistes, les distributeurs, les fabricants, les
+détaillants, etc. grâce à un enregistrement autorisé, permanent et partagé des détails de l'origine des aliments, des données de traitement, des détails d'expédition et plus encore.
+
+De même, la technologie blockchain peut être déployée dans l'expédition de marchandises. Plus de quatre billions de dollars de marchandises sont expédiés chacun année et le montant d'argent
+dépensé pour la documentation est énorme. Le commerce mondial peut être amélioré grâce à l'utilisation de la technologie blockchain
+pour la documentation et la transparence. L'utilisation de la technologie de la chaîne de blocs dans l'expédition de marchandises
+contribuera à créer l'accessibilité à des informations de chaîne d'approvisionnement de bout en bout rapides et sécurisées. Cela aidera également à créer des données vérifiables et authentiques qui ne peuvent pas être altérées. En conséquence, il réduit le fardeau, la difficulté et la lenteur de la paperasse car il améliore la gestion des stocks.
+
+*Immobilier*
+
+L'industrie immobilière et immobilière peut être rendue plus efficace en utilisant la technologie blockchain. C'est un domaine qui peut être
+considérablement amélioré grâce à l'application de la technologie, de la tenue des registres de propriété, la documentation des transferts et la gestion des successions.
+
+Premièrement, la technologie blockchain peut être utilisée pour conserver des enregistrements précis et apporter les modifications requises. Avec la propriété foncière par exemple, le propriétaire d'un
+terrain peut être documenté et stocké en toute sécurité sur le grand livre. Le stockage sur le grand livre signifie que les enregistrements
+ne peuvent pas être falsifiés car le stockage est décentralisé. Cela garantit que le transfert de propriété peut être effectué de manière transparente et que la propriété d'un terrain peut être vérifiée,
+même lorsqu'il a été transféré.
+
+
+La blockchain peut également être utilisée pour automatiser les transactions, non seulement à des fins de rapidité et d'efficacité, mais pour des raisons de sécurité. Les certificats de propriété
+numérique, par exemple, peuvent être programmés dans un contrat intelligent pour être transférés après le dépôt d'une somme prévue dans l'accord. Les activités hypothécaires sont mieux traitées et les
+coûts résultant de la présence de nombreux intermédiaires sont éliminés.
+
+*Éducation et délivrance de certificats académiques*
+
+Le lien entre la technologie blockchain et l'éducation transcende l'enseignement de la blockchain. La décentralisation et la désintermédiation de la technologie peuvent contribuer à rendre la certification plus fiable et fiable. De nombreux établissements d'enseignement délivrent désormais des certificats sur la blockchain.
+
+*Energy*
+
+La technologie de la blockchain peut avoir des effets profonds sur le secteur de l'énergie. Il peut aider à la décentralisation de la distribution, de la vente et du transfert d'énergie. Avec cela,
+l'énergie peut être vendue et transférée entre les parties directement et sans avoir besoin de tiers. Le processus de vente d'énergie est rendu transparent car il y a stockage de la quantité
+d'énergie produite et transférée par chaque partie. Les communautés peuvent également construire un système de distribution d'énergie où les ménages avec un excès d'énergie (en particulier lorsqu'ils sont générés par des moyens renouvelables comme le solaire) peuvent être transférés à d'autres pour la somme qu'ils souhaitent et quand ils le souhaitent.
+
+*Contrats intelligents, biens et instruments financiers*
+
+La pratique du droit est centralisée et hautement procédurale, avec des principes définis pour chaque processus. De plus, la pratique du droit est fondée sur la compétence et les lois qui s'appliquent et sont appliquées dans différentes juridictions varient considérablement. L'exécution des contrats est un domaine du droit qui est une exigence quotidienne pour la vie humaine, en particulier pour le commerce. La technologie de la blockchain a aidé à concevoir un moyen de ne pas obliger les contrats  à être basés sur la juridiction et tout le monde peut parler la même langue dans un accord contractuel automatisé qui s'auto-applique sans avoir besoin de recourir aux tribunaux. IBM dans sa publication intitulée "Blockchain" a défini un contrat intelligent comme "un accord ou un
+ensemble de règles qui régissent une transaction commerciale; il est stocké sur la blockchain et est exécuté automatiquement dans le cadre d'une transaction ». Il peut également être appelé accords
+intelligents car ce sont des accords contractuels qui sont mis en œuvre par le biais d'un logiciel. Les contrats intelligents sont avantageux car ils peuvent assurer la parité entre les parties au
+contrat, aider à faire respecter les obligations et éliminer la possibilité de défaillance de toute partie au contrat.
+
+La propriété intelligente est un concept qui repose sur des contrats intelligents. La propriété intelligente découle de la propriété imposée par la cryptographie qui peut être vendue ou prêtée numériquement. Ces transferts sont soumis aux dispositions d'un contrat intelligent entre les parties.
+
+Les contrats et instruments financiers peuvent tirer d'énormes avantages de l'application de la technologie blockchain. Les instruments financiers sont souvent basés sur des règles fixées par
+l'émetteur, bien que les autorités de sécurité et d'échange puissent vérifier la conformité lorsque le marché financier est réglementé. Cependant, ces autorités réglementaires passent souvent par des processus fastidieux, coûteux et longs pour évaluer ces règles, ouvrant la voie à l'efficacité grâce à l'utilisation de la technologie de la blockchain. Des algorithmes (appelés protocoles de
+programmation) peuvent être utilisés pour sélectionner des règles et appliquer leur application. Ils peuvent être utilisés sur les marchés des actions, des matières premières, des indices, des obligations et des dérivés.
+
+*Crypto-monnaie et autres applications financières*
+
+Le Bitcoin est considéré comme la première application de la blockchain et il reste l'une des utilisations les plus courantes de la technologie. Au-delà du Bitcoin, les pays et leurs banques centrales, les organisations financières, les entreprises et même les particuliers ont créé et créent régulièrement un certain nombre de
+crypto-monnaies. Certaines de ces crypto-monnaies sont destinées à des pays, des régions, des secteurs ou à résoudre un problème particulier. Il est sûr d'affirmer que le secteur financier a connu
+l'adoption la plus répandue de la technologie blockchain.
+
+La crypto-monnaie peut être décrite comme une monnaie
+numérique construite par cryptographie. Il est basé sur une confiance et une cryptographie décentralisées. La crypto-monnaie
+est un actif numérique et elle est souvent utilisée comme valeur numérique dans de nombreux pays. Depuis la première transaction Bitcoin en 2009 et l'ouverture du premier site d'échange de devises
+Bitcoin (Bitmarket) en 2010, de nombreuses nouvelles crypto-monnaies, de nombreuses transactions, un pool de mineurs, des plateformes d'échange, etc. ont vu le jour. Avec une capitalisation boursière totale en milliards de dollars, la crypto-monnaie est
+l'utilisation la plus dominante de la technologie blockchain. Il est populaire qu'il est souvent confondu avec la blockchain elle-même. Bitcoin, Ethereum, Stellar, Dash, Ripple etc. sont des crypto-
+monnaies populaires.
+
+Il existe quatre principaux secteurs dans la crypto-monnaie. Ce sont les échanges (achat, vente et échange de crypto-monnaie), les portefeuilles (stockage de crypto-monnaie), les paiements (faciliter les paiements à l'aide de crypto-monnaie) et l'exploitation minière (assurer la blockchain est sécurisée grâce au calcul des hachages et
+à la résolution d'énigmes algorithmiques pour trouver des blocs précieux qui sera ajouté à la blockchain).
+
+Ces quatre secteurs constituent la majorité de l'industrie des crypto-monnaies. L'écosystème de crypto-monnaie comprend différents participants qui établissent des connexions entre les chaînes de
+blocs, les institutions financières traditionnelles existantes et le grand public. Les participants se sont lancés dans des projets qui favorisent l'adoption en créant des applications qui stimulent
+l'utilisation de la crypto-monnaie par les utilisateurs publics. La crypto-monnaie est enracinée dans l'économie mondiale en tant
+que composante vitale.
+
+Au-delà de la crypto-monnaie, la technologie blockchain est utilisée pour d'autres applications financières. Par exemple, les registres de
+la blockchain sont utilisés, même sans crypto-monnaie, pour faciliter les transactions monétaires entre différentes devises. Des
+registres spécialement conçus peuvent assurer un échange transparent entre les différentes monnaies nationales. Cet aspect important du commerce international, lorsqu'il est placé sur des
+chaînes de blocs sécurisées et autorisées, augmentera la liquidité du marché et réduira les coûts de transaction. La technologie de la
+blockchain peut être utilisée pour augmenter le financement des petites et moyennes entreprises en raison de l'amélioration de la transparence et de l'atténuation des risques. Globalement, ces applications créeront de nouvelles sources de revenus plates-formes pour les petites et moyennes entreprises, favoriser le commerce, augmenter les transactions transfrontalières, accroître l'accès au capital et promouvoir la croissance globale du commerce et de l'économie.
+
+Une organisation peut donc faire une évaluation de la technologie pour voir si elle peut aider à répondre à un besoin organisationnel ou si elle sera la solution appropriée à un problème. Ils devront
+identifier le problème que la technologie blockchain peut résoudre (ou un aspect qu'elle peut aider à améliorer) et définir les objectifs que son application atteindra, choisir le meilleur système de
+consensus (par exemple, preuve de travail, preuve de participation ou sélectionner la plate-forme la plus appropriée et construire l'architecture (cloud, maison ou modèle hybride).
+
+L'adoption de la blockchain par les organisations entraînera une adoption plus poussée et davantage d'innovations. Toutes ces applications et bien d'autres résultant de la collaboration de la
+technologie de la chaîne de blocs avec d'autres émergentes telles que l'intelligence artificielle et l'apprentissage automatique, l'internet des objets, les villes intelligentes et la robotique, le
+commerce numérique, etc. donneront naissance à des idées florissantes et faciliteront une adoption globale à l'échelle mondiale. 
+
+*Technologie chaîneblocet Afrique*
+
+L'Afrique et le Moyen-Orient ont une chose en commun; ils abritent un cer tain nombre de pays en développement. Ces pays en développement ont subi des restrictions aux avantages de la
+numérisation et de la mondialisation, allant d'un accès limité à une exclusion pure et simple. La technologie de la blockchain est cependant globale et présente un grand potentiel pour des
+applications dans différents domaines de la vie privée et publique. Cela devient plus prometteur lorsque nous considérons que l'Afrique
+dispose de ressources humaines adéquates et peut tirer parti de son savoir-faire technologique pour améliorer le continent. De la perspective d'éradiquer la corruption et la mauvaise gestion dans les secteurs publics pour améliorer la facilité de faire des affaires, la technologie de la blockchain est celle qui peut aider l'Afrique à
+réaliser une transformation. Le potentiel de la technologie peut même faire sauter les pays en développement d'autres dans leur développement.
+
+Une implication directe de la technologie est l'inclusion financière qu'elle offre à la population non bancarisée. L'Afrique subsaharienne
+compte un grand nombre de personnes non bancarisées et selon le rapport Global Findex, plus de la moitié des adultes au Nigeria et en Éthiopie ne sont pas bancarisés, tandis qu'environ un tiers des
+Kenyans sont financièrement exclus. Sur les 25 pays qui accueillent 73% d'adultes non bancarisés dans le monde, près de la moitié de ces pays sont du continent africain, avec onze pays à savoir; Côte
+d'Ivoire, République Démocratique du Congo, Égypte, Éthiopie, Kenya, Maroc, Mozambique, Nigéria, Rwanda, Afrique du Sud et Zambie, comme indiqué par Universal Financial Access 2020. Les gens ne sont pas bancarisés en raison des coûts, de la nécessité de paperasse et documentation étendues et la distance par rapport aux institutions financières traditionnelles; la technologie blockchain peut être utilisée pour résoudre ces problèmes.
+
+La technologie peut aider à intégrer le système de change interne du continent. Le commerce intérieur entre pays africains est parfois plus difficile que d'effectuer des transactions hors du continent à
+certains moments, notamment en raison de l'absence de plates-formes de change efficaces pour le commerce africain. La technologie de la blockchain peut servir de catalyseur pour améliorer le commerce africain, tout en la positionnant mieux pour
+l'économie mondiale grâce à la facilité que la technologie apporte au commerce mondial.
+
+En facilitant un meilleur moyen pour le commerce intracontinental et intercontinental, l'utilisation de la crypto-monnaie peut aider à réduire les énormes dépenses de l'Afrique sur les envois de fonds. Le Migration and Development Brief a déclaré que le coût moyenmondial des envois de fonds hestrest élevé, à 7,2% au troisième trimestre 2018, un taux bien supérieur à la cible de l'objectif de développement durable. de 3% d'ici 2030. Les frais d'envoi de fondspeuventatteindre 9% lorsque de l'argentesttransférévers les régionsd'Afriquesubsaharienne, selon le matériel de l'Université de Nicosie Intitulé "Monnaie Numérique et monde en développement".
+
+Cette Avancée Potentielle de l'inclusion financière améliorera l'accès au crédit pour les petites et moyennes entreprises (PME). Il Augmentera la facilité de faire des affaires en Afrique et pourra accélérer la croissance industrielle et infrastructurelle de l'Afrique. L'inclusion Financière Aidera les individus à générer de la richesse, aidera les pays à se développer et concevra des moyens de lutter contre l'inflation.
+
+*Une note aux régulateurs*
+
+Les organismes de réglementation devraient adopter cette technologie perturbatrice et trouver des canaux pour intégrer ce concept numérique aux systèmes existants. Les gouvernements des
+pays africains doivent être ouverts à l'innovation plutôt que de lui résister en raison d'une mauvaise compréhension de la technologie ou de la crainte qu'elle puisse entraîner des changements dans la
+gouvernance, ils doivent créer des cadres réglementaires pour cela.
+Ces Cadres Doivent Être Conçus pour exploiter les avantages de la technologie sans entraver sa croissance. Par conséquent, au-delà
+des stipulations sur la conformité, il doit y avoir une collaboration entre le gouvernement et les principaux acteurs de l'économie
+privée.
+
+L'Afrique a une chance de mettre en œuvre des technologies révolutionnaires de la blockchain, sielle ne l'utilise pas, elle finira par
+être un spectateur.
+
+*Idées Fausses Courantes Sur Dash Et Réfutations*
+
+*1. Dash n'est pas décentralisé en raison de ses masternodes*
+
+Il y a plus de 4500 masternodes, ce qui rend Dash relativement plus décentralisé que les autres pièces. Bitcoin a plus de 8 800 nœudscomplets, mais a une capitalisation boursière plus importante. Bitcoin devrait disposer de plus de 170 000 nœudscomplets pour atteindre un niveau de décentralisation équivalent à Dash. Les masternodes sont nombreux car ils sont financièrement incités à desservir le réseau, contrairement aux
+nœuds Bitcoin.
+
+*2. Le gouvernement pourrait simplement acheter tous les masternodes et contrôler le réseau*
+
+L'exécution d'un masternode nécessite de proposer une garantie de 1 000 Dash. Avec un prix d 100 $, cela représente une mise de 100 000 $ par masternode et de 500 $, 500 000 $ en masternodes.
+
+Acheter la moitié des masternodes à ce prix coûterait 1,8 milliard de dollars SI le prix n'avait pas augmenté pendant l'attaque. Cependant, essayer d'acheter autant de Dash malgré une offre limité pourrait facilement faire augmenter le prix par multiples, ce qui en f The adoption of blockchain by organizations will propel further adoption and more innovations. All of these applications and many more resulting from the collaboration of blockchain technology with other emerging ones such as artificial intelligence and machine learning,internet of things, smart cities and robotics, digital trade, etc will birth thriving ideas and facilitate an all inclusive adoption globally. ait une attaque TRÈS coûteuse. Cela serait de nature
+similaire à une attaque de 51% sur l'exploitation de Bitcoin - théoriquement possible, mais difficile et coûteuse.
+
+*3. Le prix du tableau de bord est artificiellement élevé car beaucoup de choses sont «bloquées» dans les masternodes*
+
+La garantie de chaque masternode n'est pas verrouillée. Le masternode peut être mis hors ligne et le Dash vendu à tout moment. Le rapport de la quantité de masternodes de support Dash
+est probablement similaire à Bitcoin conservé en chambre froide. La différence est que les masterno desservent le réseau et sont payés
+pour le faire!
+
+*4. PrivateSend n'est pas privé car les nœuds maîtres peuvent espionner le réseau*
+
+Les masternodes sont sélectionnés au hasarddansune transaction de mélange PrivateSend etchaque pièce estmélangéesur différents masternodes plusieursfoisavant de pouvoirêtre dépensée via
+PrivateSend. Même si un attaquant contrôlait 25% des
+masternodes, les chances de suivre une transaction à travers 8 cycles de mixage sont inférieures à 0,004%.
+
+*5. Dash a une mauvaise confidentialité car les transactions privées ne sont pas obligatoires*
+
+Dash est fongible car il a un mixage optionnel via PrivateSend (qui n'a jamais été interrompu). Si unmarchand ne voulait pas accepter pièces mixtes en raison de leur histoire antérieure inconnue, on
+pourrait simplement leur envoyer des pièces non mélangées. Dash offre la meilleure combinaison de confidentialité, de transactions instantanée et d'une feuille de route claire pour une mise à l'échelle en chaîne inégalée par toute autre pièce.
+
+*6. Dash estunearnaqueinstamine*
+
+Il y a souvent des défis lors de l'émission d'une nouvelle pièce. Dash n'avait pas de prémisse n'avait pas d'ICO. Cependant, en raison d'un problème lié à l'ajustement de la difficulté d'extraction, environ 1,9 million de Dash ont été extraits au cours des 24 premières heures -une «mine rapide». On a demandé à la communauté si cela devait être corrigé par hard fork, mais il a été décidé de le laisser tel quel.
+
+Une analyse de la distribution montre qu'une grande partie des pièces rapidement extraites ont été simplement déversées par les mineurs. Cela se reflète dans le prix très bas entre février et avril
+2014. Encore une fois d'avril à décembre 2015, Dash a échangé environ 2 $ ilestdoncdifficiled'affirmerquepersonnen eau la chance d'entreralorsqu'ilétait bon marché. Evan Duffield, créateur de Dash et le prétendu bénéficiaire de l'instamine, ne contrôle pas plus de
+256 000 Dash et en donnera 80% pour financer des projets Dash à l'appui de la communauté. Il travaille toujours dur sur le projet aujourd'hui. Evan ne contrôle également aucun masternode vote de gouvernance. Pour plus d'informations, consultez l'entrée wiki sur ce sujet à l'adresse www.dash.org.
+
+*7. C'est Un Système de ponzi parce que les masternodes gagnent un retour sur investissement*
+
+Les masternodes doivent réserver 1 000 Dash en garantie servir le réseau en exécutant des nœudscompletsrobustes. En retour, ils
+gagnent 45% des récompenses de blocs versées lorsque de nouveaux blocs sont extraits. Cela fournit actuel le mentunrendement annuel d'environ 8% aux propriétaires de masternodes. Avec la plupart des devises, 100% de la récompense globale est versée aux mineurs, qui dépensent la majeure partie de
+la récompense globale en électricité et en matériel d'exploitation minière. La récompense du bloc Dash est divisée pour soutenir les mineurs, les opérateurs de masternode et les développeurs, afin
+que tous les parties critiques de l'écosystème sont incitées financièrement à prospérer.
+
+*8. C'est juste un gadget marche*
+
+Dash est l'un des innovateurs les plus rapides de l'espace de crypto-monnaie. Il possède des fonctionnalités uniques telles qu'InstantSend, PrivateSend, un système de gouvernance de
+masternode et le premier DAO fonctionnel au monde. Il finance des activités promotionnelles car très peu de personnes dans le monde connaissent les crypto-monnaies. Nous voulons que tout le monde
+puisse profiter de ses nombreux avantages par rapport à la monnaie fiduciaire.
+Le système unique de récompense en bloc de Dash réserve 10% de la récompense en bloc pour soutenir le développement de la monnaie. Une Grande Partie de cette somme est consacrée au grand nombre de développeurs rémunérés à temps plein et une partie est également consacrée à des activités promotionnelles telles que des conférences et du marketing. Ils'agit d'un avantage que de nombreuses devises plus récentes ont copié à partir de Dash.
+
+
+*Dash est une crypto-monnaie de nouvelle génération similaire à Bitcoin, mais avec de nombreuses améliorations telles que InstantSend, PrivateSend, des masternodes financièrement incités et un système de gouvernance décentralisé d'autofinancement.(DashDude)*
