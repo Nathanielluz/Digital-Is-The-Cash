@@ -1,0 +1,468 @@
+Blockketten-Anwendungsfälle
+
+Die Blockkettentechnologie ist mehrdimensional. Sie kann in
+bestehenden und neu entstehenden innovativen Paradigmen
+eingesetzt werden. Die Blockchain-Technologie wird oft als KryptoWährung betrachtet, aber das beschränkt sie auf nur eine
+Anwendung aus einem Pool von Funktionen, die mit ihr ausgeführt
+werden können. Sie geht über die Krypto-Währung und die financial
+Dienste hinaus, die sich auf alle Arten von Unternehmen und
+Technologien erstrecken, und sie kann auf vielfältige Weise
+eingesetzt werden, und einige davon sind:
+
+Regierungsführung
+Die Blockchain-Technologie kann die Governance-Modelle
+nationaler Regierungen und Unternehmen verändern. Auch
+internationale Organisationen können durch die Integration von
+Technologie in die Verwaltung mehr efficient Modelle der
+Regierungsführung haben. Die Blockchain-Technologie kann die
+Regierungsführung verbessern, indem sie ein neues Modell der
+Stimmabgabe ermöglicht, die Identität der Bürger bewahrt und
+Transaktionen, Entscheidungen und den Besitz von
+Vermögenswerten aufzeichnet. Sie kann auch bei der Budgetierung
+und Verwaltung öffentlicher Mittel eingesetzt werden.
+
+Datenspeicherung
+Die Identität und die Aufzeichnungen der Bürger sowie ihre
+ordnungsgemäße Dokumentation sind für die Verwaltung von
+wesentlicher Bedeutung, aber die bestehenden Systeme sind
+inefficient, um diesen Bedürfnissen gerecht zu werden.
+Identitätsdokumente sind anfällig für Fälschungen, Verlust und die
+Überprüfung von difficulty. Die Identität und die Aufzeichnungen
+von Bürgern können auf der Blockkette gespeichert werden.
+Darüber hinaus können Strafregister, Gerichtsakten und sogar
+private Aufzeichnungen von Einzelpersonen (z.B. Testamente) auf
+der Blockkette gespeichert werden. Sie ist auch sicher, da sie
+verschlüsselt werden kann und leicht zugänglich ist verified.
+Nationen und Organisationen können die Blockkettentechnologie
+auch bei Abstimmungen (Wahlen) einsetzen. Die Stimmabgabe
+über die Blockkette verringert die Chancen einer Manipulation, da
+die Ergebnisse nicht manipuliert werden können.
+
+Gesundheitswesen
+Der Gesundheitssektor ist auf die Daten von Patienten angewiesen,
+und die difficulty, die aus der Speicherung von Patientendaten mit
+traditionellen Mitteln (wie Papier) oder zentralisierten digitalen
+Formularen entstehen, sind zahlreich. Erstens sind die Daten für
+jeden, der keinen Zugriff auf den zentralen Speicher hat,
+unzugänglich, und die Patienten müssen wesentliche Details erneut
+erfasst bekommen. Dies verschwendet Zeit und Geld. Die
+Speicherung der Daten eines Patienten in der Blockkette und die
+Ermöglichung des Zugriffs von Ärzten, Patienten, Krankenkassen
+und anderen notwendigen Parteien wird dazu beitragen,
+manipulationssichere Daten zu erstellen, eine schnelle medizinische
+Leistungserbringung und angemessene Empfehlungen von Ärzten
+zu gewährleisten und eine prompte Zahlung durch die
+Versicherungsgesellschaften zu fördern.
+
+Management der Versorgungskette
+Die Bewegung von Waren über Grenzen hinweg ist ein wichtiger
+Aspekt des globalen Handels. Das Lieferkettenmanagement zielt
+darauf ab, das Vertrauen in die Lieferung von Waren zu verbessern,
+und die Nutzung der Blockkette wird den Prozess transparenter
+machen. Über die Führung unveränderlicher Aufzeichnungen hinaus
+kann die Technologie zur Verbesserung der Geschwindigkeit
+beitragen, indem sie traditionelle Reibungspunkte reduziert.
+
+Die Blockkette kann auch bei der Lieferung verderblicher Güter (wie
+Lebensmittel) eingesetzt werden. Die Blockkette kann eingesetzt
+werden, um den Lieferprozess transparenter und rückverfolgbarer
+zu machen. Sie erleichtert die Sichtbarkeit und Nachvollziehbarkeit
+von Nahrungsmittellieferungen und macht den Parteien auch
+Details wie Herkunft, Lagerung und Verfallsdatum bekannt. IBM
+Food Trust tut dies mit Hilfe der Blockkette. Die Lösung verbindet
+Teilnehmer wie Landwirte, Verarbeiter, Großhändler, Distributoren,
+Hersteller, Einzelhändler usw. durch eine genehmigte, dauerhafte
+und gemeinsam genutzte Aufzeichnung von Details zur Herkunft
+von Lebensmitteln, Verarbeitungsdaten, Versanddetails und mehr.
+In ähnlicher Weise kann die Blockkettentechnologie auch für den
+Versand von Waren eingesetzt werden. Waren im Wert von über vier
+Billionen Dollar werden versandt. Jahr und der für die
+Dokumentation ausgegebene Geldbetrag ist enorm. Der Welthandel
+kann durch den Einsatz von Blockkettentechnologie für
+Dokumentation und Transparenz verbessert werden. Der Einsatz
+der Blockkettentechnologie beim Versand von Gütern wird dazu
+beitragen, Zugang zu schnellen und sicheren End-to-EndLieferketteninformationen zu schaffen. Sie wird auch dazu
+beitragen, verifiable und authentische Daten zu schaffen, die nicht
+manipuliert werden können. Im Ergebnis verringert sie den
+Aufwand, difficulty und die Langsamkeit des Papierkrams, da sie die
+Lagerverwaltung verbessert.
+
+Immobilien
+Die Immobilien- und Grundstücksbranche kann durch den Einsatz
+der Blockkettentechnologie efficient stärker gefördert werden. Es ist
+ein Bereich, der durch die Anwendung der Technologie enorm
+v e r b e s s e r t w e r d e n k a n n , v o n d e r F ü h r u n g v o n
+Eigentumsverzeichnissen über die Dokumentation von
+Übertragungen bis hin zur Verwaltung von Nachlässen.
+Erstens kann die Blockkettentechnologie genutzt werden, um
+genaue Aufzeichnungen zu führen und die erforderliche
+modifications. Bei Grundbesitz zum Beispiel kann der Eigentümer
+eines Grundstücks dokumentiert und sicher im Hauptbuch
+gespeichert werden. Die Speicherung im Hauptbuch bedeutet, dass
+die Aufzeichnungen nicht gefälscht werden können, da die
+Speicherung dezentralisiert ist. Dadurch wird sichergestellt, dass die
+Übertragung von Eigentum auf transparente Weise erfolgen
+kann und das Eigentum an Grund und Boden auf verified übertragen
+werden kann, auch wenn es bereits übertragen wurde.
+Blockchain kann auch zur Automatisierung von Transaktionen
+verwendet werden, nicht nur aus Gründen der Geschwindigkeit und
+efficiency, sondern auch aus Sicherheitsgründen. Das digitale
+Eigentum certificates kann zum Beispiel in einem intelligenten
+Vertrag so programmiert werden, dass es nach der Hinterlegung
+einer im Vertrag vorgesehenen Summe übertragen wird.
+Hypothekenaktivitäten werden besser verarbeitet, und die Kosten,
+die durch die Anwesenheit zahlreicher Zwischenhändler entstehen,
+entfallen.
+
+Bildung und Ausgabe von akademischen
+Certificates
+Die Verknüpfung von Blockkettentechnologie und Bildung geht über
+Unterricht über Blockketten. Die Dezentralisierung und
+Disintermediation der Technologie kann dazu beitragen,
+certification zuverlässiger und seriöser zu machen. Viele
+Bildungsinstitute geben jetzt certificates über die Blockkette heraus.
+
+Energie
+Die Blockkettentechnologie kann im Energiesektor tiefgreifende
+Auswirkungen auf effects haben. Sie kann bei der Dezentralisierung
+der Verteilung, des Verkaufs und der Übertragung von Energie
+helfen. Damit kann Energie direkt und ohne die Notwendigkeit von
+Dritten verkauft und zwischen Parteien übertragen werden. Der
+Prozess des Energieverkaufs wird transparent gemacht, da die
+Menge der von jeder Partei erzeugten und übertragenen Energie
+gespeichert wird. Gemeinschaften können auch ein
+Energieverteilungssystem aufbauen, in dem Haushalte mit
+überschüssiger Energie (vor allem, wenn sie durch erneuerbare
+Mittel wie Sonnenenergie erzeugt wird) für eine von ihnen
+gewünschte Summe und wann immer sie wollen, an andere
+übertragen können.
+
+Smar t Verträge, Proper ty und Fi nanci al
+
+Instrumente
+Die Rechtspraxis ist zentralisiert und stark prozessual geprägt, mit
+festgelegten Prinzipien für jeden Prozess. Darüber hinaus basiert die
+Rechtspraxis auf der Rechtsprechung, und die Gesetze, die in den
+Zuständigkeitsbereichen von different gelten und durchgesetzt
+werden, sind unterschiedlich. Die Durchsetzung von Verträgen ist
+ein Rechtsgebiet, das für das menschliche Leben, insbesondere
+beim Handel, eine tägliche Notwendigkeit darstellt. Die BlockchainTechnologie hat dazu beigetragen, einen Weg zu finden, wie
+Verträge nicht auf der Grundlage der Gerichtsbarkeit geschlossen
+werden müssen und jeder in einer automatisierten vertraglichen
+Vereinbarung, die sich selbst durchsetzt, ohne dass Gerichte
+angerufen werden müssen, dieselbe Sprache sprechen kann. IBM
+hat in ihrer Publikation mit dem Titel "Blockchain" defined einen
+intelligenten Vertrag als "eine Vereinbarung oder eine Reihe von
+Regeln, die eine Geschäftstransaktion regeln; sie wird in der
+Blockchain gespeichert und als Teil einer Transaktion automatisch
+ausgeführt". Er kann auch als intelligente Vereinbarungen
+bezeichnet werden, da es sich um vertragliche Vereinbarungen
+handelt, die durch den Einsatz von Software umgesetzt werden.
+Intelligente Verträge sind vorteilhaft, weil sie die Parität zwischen
+den Vertragsparteien gewährleisten, die Erfüllung der
+Verpflichtungen durchsetzen helfen und die Möglichkeit der
+Nichterfüllung durch eine der Vertragsparteien ausschließen
+können.
+
+Intelligentes Eigentum ist ein Konzept, das auf intelligente Verträge
+angewiesen ist. Intelligentes Eigentum entsteht durch
+kryptografisch erzwungenes Eigentum, das digital verkauft oder
+verliehen werden kann. Solche Übertragungen unterliegen den
+Bestimmungen eines intelligenten Vertrags zwischen den Parteien.
+Finanzverträge und -instrumente können aus der Anwendung der
+Blockkettentechnologie riesige Mengen von benefits ableiten.
+Finanzinstrumente basieren oft auf Regeln, die vom Emittenten
+festgelegt werden, obwohl die Einhaltung dieser Regeln von
+Sicherheits- und Börsenbehörden überprüft werden kann, wenn der
+Markt für financial reguliert ist. Diese Regulierungsbehörden
+durchlaufen jedoch oft langwierige, teure und zeitraubende
+Prozesse, um solche Regeln zu bewerten, und ebnen durch den
+Einsatz der Blockchain-Technologie den Weg für efficiency.
+Algorithmen (bekannt als Programmierprotokolle) können zur
+Auswahl von Regeln und zur Durchsetzung ihrer Anwendung
+verwendet werden. Sie können auf den Aktien-, Rohstoff-, Index-,
+Anleihen- und Derivatemärkten verwendet werden.
+
+Cryptocurrency und andere financial Anwendungen
+Bitcoin gilt als die first Anwendung der Blockkette und ist nach wie
+vor eine der häufigsten Anwendungen dieser Technologie. Über
+Bitcoin hinaus haben Länder und ihre Zentralbanken, financial
+Organisationen, Unternehmen und sogar Einzelpersonen eine Reihe
+von Kryptowährungen geschaffen und schaffen diese regelmäßig.
+Einige dieser Kryptowährungen zielen auf Länder, Regionen,
+Sektoren oder auf die Behandlung eines bestimmten
+Themas ab. Man kann mit Sicherheit sagen, dass der Sektor
+financial die am weitesten verbreitete Anwendung der
+Blockkettentechnologie erlebt hat.
+
+Eine Kryptowährung kann als digitale Währung beschrieben
+werden, die durch Kryptographie aufgebaut wird. Sie basiert
+auf dezentralisiertem Vertrauen und Kryptographie.
+Kryptowährung ist ein digitaler Vermögenswert und wird oft
+als digitaler Wert verwendet.
+
+in vielen Ländern. Seit der first Bitcoin-Transaktion im Jahr 2009 und
+der Eröffnung der first Bitcoin-Währungstauschseite (Bitmarket) im
+Jahr 2010 sind viele neue Kryptowährungen, zahlreiche
+Transaktionen, ein Pool von Bergleuten, Tauschplattformen und so
+weiter entstanden. Mit einer Gesamtmarktkapitalisierung in
+Milliarden von Dollar ist die Kryptowährung die dominierende
+Anwendung der Blockkettentechnologie. Sie ist so populär, dass sie
+oft fälschlicherweise für die Blockkette selbst gehalten wird. Bitcoin,
+Ethereum, Stellar, Dash, Ripple usw. sind beliebte
+Kryptowährungen.
+
+Es gibt vier große Bereiche der Krypto-Währung. Es handelt sich um
+Tauschgeschäfte (Kauf, Verkauf und Handel mit Kryptowährung),
+Brieftaschen (Lagerung von Kryptowährung), Zahlungen
+(Erleichterung von Zahlungen mit Kryptowährung) und Bergbau
+(Gewährleistung der Sicherheit der Blockkette durch Berechnung
+von Hashes und Lösung algorithmischer Rätsel an find wertvolle
+Blöcke, die der Blockkette hinzugefügt werden).
+
+Diese vier Sektoren machen die Mehrheit der Kryptogeldindustrie
+aus. Das Kryptogeld-Ökosystem besteht aus different Teilnehmern,
+die Verbindungen zwischen Blockketten, traditionell existierenden
+financial Institutionen und der allgemeinen Öffentlichkeit herstellen.
+Die Teilnehmer haben Projekte in Angriff genommen, die die
+Akzeptanz fördern, indem sie Anwendungen entwickeln, die die
+Nutzung der Kryptowährung durch öffentliche Benutzer anregen.
+Die Kryptowährung wird in der globalen Wirtschaft als eine wichtige
+Komponente verankert.
+Über die Kryptowährung hinaus wird die Blockkettentechnologie
+auch für andere Anwendungen von financial verwendet. So werden
+beispielsweise Blockchain-Ledger auch ohne Kryptowährung
+verwendet, um Geldtransaktionen in den Währungen von different
+zu erleichtern. Speziell entworfene Ledger können einen nahtlosen
+Austausch zwischen den Landeswährungen von different
+gewährleisten. Dieser wichtige Aspekt des internationalen Handels
+wird, wenn er auf sichere, zugelassene Blockketten gelegt wird, die
+Marktliquidität erhöhen und die Transaktionskosten senken. Die
+Blockkettentechnologie kann eingesetzt werden, um die
+Finanzierung für kleine und mittlere Unternehmen aufgrund der
+verbesserten Transparenzund Risikominderung zu erhöhen.
+Insgesamt werden diese Anwendungen neue Einnahmen
+generieren Plattformen für kleine und mittlere Unternehmen,
+fördern den verstärkten Handel, steigern grenzüberschreitende
+Transaktionen, verbessern den Zugang zu Kapital und fördern den
+Handel und das Wirtschaftswachstum insgesamt.
+
+Eine Organisation könnte daher eine Bewertung der Technologie
+vornehmen, um zu sehen, ob sie dazu beitragen kann, ein
+organisatorisches Bedürfnis zu erfüllen oder ob sie eine geeignete
+Lösung für ein Problem darstellt. Sie müssen das Problem
+identifizieren, das die Blockkettentechnologie lösen kann (oder
+einen Aspekt, den sie zur Verbesserung beitragen kann) und die
+Ziele festlegen, die mit ihrer Anwendung erreicht werden sollen, das
+beste Konsenssystem auswählen (z.B. Arbeitsnachweis,
+Einsatznachweis oder die am besten geeignete Plattform auswählen
+und die Architektur aufbauen (Cloud, In-House oder ein
+Hybridmodell).
+
+Die Übernahme der Blockkette durch die Organisationen wird die
+weitere Übernahme und weitere Innovationen vorantreiben. All
+diese Anwendungen und viele weitere, die sich aus der
+Zusammenarbeit der Blockchain-Technologie mit anderen
+aufkommenden Anwendungen ergeben, wie z.B. artificial
+Intelligenz und maschinelles Lernen, Internet der Dinge, intelligente
+Städte und Robotik, digitaler Handel usw., werden blühende Ideen
+hervorbringen und eine allumfassende Einführung weltweit
+erleichtern.
+
+Blockchain Technology and Africa
+Afrika und der Nahe Osten haben eines gemeinsam: Sie sind die
+Heimat einer Reihe von Entwicklungsländern. Diese
+Entwicklungsländer haben suffered Einschränkungen gegenüber
+der benefits der Digitalisierung und Globalisierung, die von
+schlechtem Zugang bis zur völligen Ausgrenzung reichen. Die
+Blockchain-Technologie ist jedoch allumfassend und hat ein großes
+Potenzial für Anwendungen in den Bereichen des privaten und
+öffentlichen Lebens auf different. Dies wird noch
+vielversprechender, wenn man bedenkt, dass Afrika über
+ausreichende Humanressourcen verfügt und sein technologisches
+Know-how zur Verbesserung des Kontinents nutzen kann. Von der
+Aussicht auf die Ausrottung von Korruption und Missmanagement
+im öffentlichen Sektor bis hin zur Erleichterung der
+Geschäftstätigkeit ist die Blockkettentechnologie eine, die Afrika
+helfen kann, einen Wandel zu verwirklichen. Das Potenzial dieser
+Technologie kann sogar dazu führen, dass die Entwicklungsländer
+überspringen andere in ihrer Entwicklung.
+
+Eine direkte Implikation der Technologie ist die Einbeziehung von
+financial, die sie für die Bevölkerung ohne Bankkonto vorsieht. In
+Subsahara-Afrika gibt es eine große Zahl von Menschen ohne
+Bankkonto, und laut dem Bericht von Global Findex sind über die
+Hälfte der Erwachsenen in Nigeria und Äthiopien ohne Bankkonto,
+während etwa ein Drittel der Kenianer von financially
+ausgeschlossen sind. Von den 25 Ländern, in denen 73% der
+erwachsenen Menschen ohne Bankkonto leben, stammt fast die
+Hälfte vom afrikanischen Kontinent, mit elf Ländern, nämlich:
+Elfenbeinküste, Demokratische Republik Kongo, Ägypten,
+Äthiopien, Kenia, Marokko, Mosambik, Nigeria, Ruanda, Südafrika
+und Sambia, wie der Universal Financial Access 2020 berichtet. Die
+Menschen bleiben aufgrund der Kosten, der Notwendigkeit
+umfangreicher Papier- und Dokumentationsarbeiten und der
+
+Entfernung zu den traditionellen financial Institutionen ohne
+Bankverbindung; die Blockkettentechnologie kann zur Lösung
+dieser Probleme eingesetzt werden.
+
+Die Technologie kann bei der Integration des kontinentalen internen
+Währungsumtauschsystems helfen. Der Binnenhandel
+zwischen afrikanischen Ländern ist manchmal mehr difficult als die
+Abwicklung von Transaktionen außerhalb des Kontinents,
+i n s b e s o n d e r e w e g e n d e s F e h l e n s v o n e ff e c t i v e
+Devisenaustauschplattformen für den afrikanischen Handel. Die
+Blockkettentechnologie kann als Ermöglicher für einen verbesserten
+afrikanischen Handel fungieren und sie gleichzeitig durch die
+Leichtigkeit, mit der die Technologie den globalen Handel
+erleichtert, besser für die Weltwirtschaft positionieren.
+
+Durch die Erleichterung eines besseren Mittels für den intra- und
+interkontinentalen Handel kann der Einsatz von Kryptowährung
+dazu beitragen, die enormen Ausgaben Afrikas für Überweisungen
+einzudämmen. Der Migrations- und Entwicklungsbrief stellte fest,
+dass die weltweiten Durchschnittskosten für die Überweisungen mit
+7,2 Prozent im dritten Quartal 2018 hoch geblieben sind, eine Rate,
+die weit über dem Ziel der nachhaltigen Entwicklung von 3 Prozent
+bis 2030 liegt. Die Überweisungsgebühren können auf neun Prozent
+steigen, wenn Geld in Regionen südlich der Sahara überwiesen wird,
+heißt es in dem Material der Universität Nikosia mit dem Titel "Digital
+
+Currency and the Developing World"
+Dieser potenzielle Fortschritt bei der Einbeziehung von financial wird
+den Zugang zu Krediten für kleine und mittlere Unternehmen (KMU)
+verbessern. Sie wird die Geschäftsabwicklung in Afrika erleichtern
+und kann das industrielle und infrastrukturelle Wachstum Afrikas
+beschleunigen. Die finanzielle Einbeziehung wird Einzelpersonen
+dabei helfen, Wohlstand zu schaffen, den Ländern bei der Expansion
+helfen und Wege zur Bewältigung von inflation aufzeigen.
+
+Ein Hinweis für Regulierungsbehörden
+Die Regulierungsbehörden sollten diese störende Technologie und
+die Kanäle von find nutzen, um dieses digitale Konzept in
+bestehende Systeme zu integrieren. Die Regierungen der
+afrikanischen Länder müssen offen für Innovationen sein und dürfen
+sich nicht aufgrund eines Missverständnisses der Technologie oder
+aus Furcht vor dem Ausmaß, in dem sie zu Verschiebungen in der
+Regierungsführung führen kann, gegen sie sträuben, sondern
+müssen dafür rechtliche Rahmenbedingungen schaffen. Solche
+Rahmenbedingungen müssen so gestaltet sein,
+dass sie die benefits der Technologie nutzbar machen, ohne ihr
+Wachstum zu behindern. Daher muss über die Vorschriften zur
+Einhaltung hinaus eine Zusammenarbeit zwischen der Regierung
+und den wichtigsten Akteuren der Privatwirtschaft stattfinden.
+Afrika hat eine Chance für bahnbrechende Implementierungen der
+Blockkettentechnologie, wenn es diese nicht nutzt, wird es am Ende
+zum Zuschauer.
+
+Häufige Missverständnisse über Dash und
+Gegenargumente
+1. Dash ist wegen seiner Masternodes nicht dezentralisiert
+Es gibt über 4.500 Masternodes, was den Dash relativ dezentraler
+macht als andere Münzen. Bitcoin hat über 8.800 volle Knoten, hat
+aber eine größere Marktabdeckung. Bitcoin müsste über 170.000
+Vollknoten haben, um einen gleichwertigen Grad an
+Dezentralisierung wie Dash zu erreichen. Masternodes sind
+zahlreich, weil sie financially einen Anreiz bieten, das Netzwerk zu
+bedienen, während Bitcoin-Knoten nicht dazu veranlasst sind.
+2. Die Regierung könnte einfach alle Masternodes kaufen und
+das Netzwerk kontrollieren
+
+Für den Betrieb eines Masternode müssen Sicherheiten in Höhe von
+1.000 Dash gestellt werden. Bei einem Preis von 100 $ entspricht
+dies einem Einsatz von 100.000 $ pro Masternode und bei 500 $,
+500.000 $ bei Masternodes.
+Die Hälfte der Masternodes zu diesem Preis zu kaufen, würde 1,8
+Milliarden Dollar kosten, WENN der Preis während des Angriffs nicht
+gestiegen wäre. Der Versuch, angesichts des begrenzten Angebots
+so viel Dash zu kaufen, könnte jedoch leicht dazu führen, dass der
+Preis um ein Vielfaches steigt, so dass dies ein SEHR teurer Angriff
+wäre. Dies wäre in der Art ähnlich wie ein 51%iger Angriff auf den
+Bitcoin-Bergbau - theoretisch möglich, aber difficult und teuer.
+
+3. Der Dash-Preis ist artificially erhöht, weil so viel in
+Masternodes "eingesperrt" ist
+Die Sicherheiten für jeden Masterknoten sind nicht gesperrt. Der
+Masterknoten kann jederzeit mitgenommen werden offline und der
+Dash kann jederzeit verkauft werden. Das Verhältnis der Menge an
+Dash, die die Masterknoten unterlegt, ist wahrscheinlich ähnlich wie
+bei Bitcoin, das im Kühlhaus aufbewahrt wird. Die difference ist,
+dass Masternodes dem Netzwerk dienen und dafür bezahlt werden!
+
+4. Privatesend ist nicht privat, weil Master-Knoten das
+Netzwerk ausspionieren könnten
+Masternodes werden in einer PrivateSend-Mischtransaktion nach
+dem Zufallsprinzip ausgewählt und jede Münze wird auf different
+masternodes mehrfach gemischt, bevor sie über PrivateSend
+ausgegeben werden kann. Selbst wenn ein Angreifer 25 % der
+Masternodes kontrolliert hat, liegt die Wahrscheinlichkeit, eine
+Transaktion durch 8 Runden Mischen zu verfolgen, unter 0,004 %.
+
+5. Dash hat einen schlechten Datenschutz, da private
+Transaktionen nicht obligatorisch sind.
+Dash ist fungibel, da es optional durch PrivateSend gemischt werden
+kann (was nie gebrochen wurde). Wenn ein Händler nicht
+akzeptieren wollte gemischte Münzen aufgrund ihrer unbekannten
+Vorgeschichte, könnte man ihnen einfach ungemischte Münzen
+schicken. Dash offers die beste Kombination aus Datenschutz,
+sofortigen Transaktionen und einer klaren Roadmap für die OnChain-Skalierung, die von keiner anderen Münze erreicht wird.
+
+6. Dash ist ein Instamine-Betrug
+Bei der Ausgabe einer neuen Münze gibt es oft Herausforderungen.
+Dash hatte keine Prämine und hatte kein ICO. Aufgrund eines
+Problems bei der Anpassung der Bergbau difficulty wurden jedoch
+rund 1,9 Millionen Dash in den 24 Stunden von first abgebaut - eine
+"Fastmine". Die Gemeinde wurde gefragt, ob dies durch Hard Fork
+korrigiert werden sollte, aber es wurde beschlossen, es so zu
+belassen, wie es ist.
+
+Eine Verteilungsanalyse zeigt, dass ein großer Teil der schnell
+geprägten Münzen von den Bergarbeitern einfach weggeworfen
+wurde. Dies ist reflected in dem sehr niedrigen Preis zwischen
+Februar und April 2014. Wiederum von April bis Dezember 2015
+handelte Dash für rund 2 Dollar, so dass man kaum argumentieren
+kann, dass niemand eine Chance hatte, hineinzukommen, solange
+es billig war. Evan Duffield, der Schöpfer von Dash und angeblich
+beneficiary des Instamins, kontrolliert nicht mehr als 256.000 Dash
+und wird 80% davon verschenken, um Dash-Projekte zur
+Unterstützung der Gemeinde zu finanzieren. Er arbeitet auch heute
+noch hart an dem Projekt. Evan kontrolliert auch keine Masternodes
+oder Regierungsabstimmungen. Weitere Informationen finden Sie
+im Wiki-Eintrag zu diesem Thema unter www.dash.org.
+7. Es ist ein Ponzi-Schema, weil Masternodes eine Rendite auf
+ihre Investition erzielen
+Masternodes müssen 1.000 Dash als Sicherheit reservieren und das
+Netzwerk durch den Betrieb robuster Vollknoten bedienen. Im
+Gegenzug erhalten sie 45% der Blockbelohnungen, die beim Abbau
+neuer Blöcke ausbezahlt werden. Damit erhalten die MasternodeEigentümer derzeit eine jährliche Rendite von etwa 8%. Bei den
+meisten Währungen werden 100% der Blockvergütung an
+Bergleute gezahlt, die den größten Teil der Blockvergütung für
+Strom und Bergbau-Hardware ausgeben. Die Belohnung für den
+Dash-Block wird aufgeteilt, um Bergleute, Masternode-Betreiber
+und Entwickler zu unterstützen, so dass alle Kritische Teile des
+Ökosystems werden durch financially zum Gedeihen angeregt.
+
+8. Es ist nur ein Marketing-Trick.
+D a s h i s t e i n e r d e r s c h n e l l s t e n I n n o v a t o r e n i m
+Kryptowährungsraum. Er verfügt über einzigartige Funktionen wie
+InstantSend, PrivateSend, ein Masternode-Governance- System
+und die weltweit funktionierende DAO first. Es finanziert
+Werbeaktivitäten, da nur sehr wenige Menschen auf der Welt mit
+Kryptowährungen vertraut sind. Wir möchten, dass jeder die
+Möglichkeit hat, benefit von ihren vielen Vorteilen gegenüber der
+Währung fiat zu profitieren.
+
+Dash's einzigartiges Blockbelohnungssystem reserviert 10% der
+Blockbelohnung, um die Entwicklung der Währung zu unterstützen.
+Ein Großteil davon wird für die große Zahl von vollzeitlich bezahlten
+Entwicklern ausgegeben, und ein Teil wird auch für
+Werbeaktivitäten wie Konferenzen und Marketing verwendet. Dies
+ist ein Vorteil, den viele neuere Währungen von Dash kopiert haben.
+
+
+Dash ist eine Kryptowährung der nächsten Generation, ähnlich
+wie Bitcoin, aber mit vielen Verbesserungen, wie InstantSend,
+PrivateSend, financially, anreizgesteuerten Masternodes und
+einem dezentralisierten Selbstfinanzierungssystem.
+(DashDude)

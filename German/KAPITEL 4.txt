@@ -1,0 +1,334 @@
+Was ist Blockchain?
+
+Die Blockkettentechnologie ist zweifellos eines der größten
+technologischen Ereignisse in der heutigen Welt. Auf ihren Einzug in
+die Welt folgte eine Veränderung im Sektor financial. Obwohl es viele
+andere Sektoren gibt, in denen die Blockkette finds relevant ist, wie
+z.B. im Gesundheitswesen, in der Landwirtschaft und im
+Produktionssektor, verspricht sie eine Revolution des derzeitigen
+weltweiten financial Systems.
+
+Seit der Schaffung von Bitcoin und einer der zugrundeliegenden
+Technologien, der Blockchain, im Jahr 2008 gab es eine Verlagerung
+hin zur Verwendung dieser digitalen Geldform, die als
+Kryptowährungen bezeichnet wird. Dies wurde noch deutlicher, als
+der Wert von Bitcoin von wenigen Cent auf über 20.000 US-Dollar im
+Dezember 2017 stieg. Die Blockkettentechnologie verspricht eine
+sehr vielversprechende Zukunft für die Welt, in der wir leben. Sie
+zielt darauf ab, Dienste, die offered für die Öffentlichkeit sind, so
+transparent, dezentralisiert, sicher, geschützt und bequem wie
+möglich zu machen. Man mag sich fragen, warum dieser wichtigen
+Erfindung so viel Bedeutung beigemessen wird, aber ein gutes
+Verständnis ihrer Struktur würde uns helfen, die endlosen
+Möglichkeiten zu verstehen, die sie bietet offers.
+
+Benefits der Blockkette
+Sie ermöglicht sichere und transparente Transaktionen. Die
+Transaktionen sind sicher, da es sich um Peer-to-PeerTransaktionen (P2P) handelt, und sie sind transparent, da jede
+Transaktionsinformation veröffentlicht wird.
+Doppelte Ausgaben sind bei Transaktionen auf der Blockkette nicht
+möglich. Doppelte Ausgaben sind ein Problem, bei dem ein und
+dieselbe digitale Währung mehr als einmal ausgegeben werden
+kann.
+
+Ein Zwischenhändler oder eine dritte Partei zur Erleichterung von
+Transaktionen zwischen zwei Personen ist nicht mehr erforderlich.
+Es ist unveränderlich. Informationen, die in die Blockkette
+eingegeben werden, kšnnen durch keine bekannten rechnerischen
+Mittel verŠndert werden.
+
+Krypto-Währung
+Kryptowährungen sind digitale Währungen, die im Internet
+existieren und von einer Person an eine andere Person überall auf
+der Welt verschickt werden können, wobei mehrere different
+Personen confirm diese Transaktionen ohne eine zentrale
+Regulierungsbehörde wie die Regierung durchführen. Wie
+funktioniert das Ihrer Meinung nach? Lassen Sie uns weiter
+eintauchen.
+
+2008 erschien ein Whitepaper über die first Krypto-Währung mit
+dem Titel Bitcoin, ein neues Währungssystem; das Internet des
+Geldes. Bitcoin kann von der Person Alice an die Person Bob
+geschickt werden, solange beide mit dem Internet verbunden sind,
+und im Gegensatz zur Währung fiat hat Bitcoin bei fixed einen Vorrat
+von 21 Millionen. Das ist alles, was es jemals geben wird, und sie
+müssen "abgebaut" werden, d.h. es müssen neue Bitcoins
+produziert werden, bis das Maximum erreicht ist. Wer confirms die
+Transaktion zwischen Alice und Bob? Wie werden Bitcoins abgebaut,
+wenn alles digital existiert?
+Die Blockchain-Technologie ist eine der vier Technologien hinter
+Bitcoin und anderen Kryptowährungen, die anderen sind P2PNetzwerk, Proof-of-Work und Kryptographie. Die Blockchain ist ein
+offenes, verteiltes und verschlüsseltes Ledger/Netzwerk, das Daten
+aufzeichnet, an denen jeder auf der Welt teilnehmen kann.
+Die Personen, die an diesem Netzwerk und an den confirm
+Transaktionen, die im Netzwerk stattfinden, teilnehmen, werden
+
+Bergleute genannt. Sie nehmen einfach eine Transaktion auf und
+fügen sie dem Ledger/Netzwerk, auf das jeder zugreift, hinzu und
+übertragen sie an jeden im Netzwerk, in dem eine Transaktion
+zwischen Alice und Bob stattgefunden hat. Dieser Prozess von
+confirmation ist jedoch nicht billig, da die Computer dieser Bergleute
+dafür gemacht sind, komplexe Rätsel zu lösen. Wer first erhält, wird
+confirm die Transaktion hinzufügen und mit neuen
+Kryptowährungen für seine efforts belohnt. Die Bergleute rüsten
+sich also mit leistungsfähigen Computern aus, um eine Chance auf
+Belohnungen zu haben. Dieser Prozess von confirmation wird als
+"Arbeitsnachweis" bezeichnet, und die
+Belohnungen, die den Teilnehmern des Netzwerks gegeben werden,
+sind das, was das Netzwerk bis heute am Laufen hält.
+Es gibt noch andere Möglichkeiten von confirmations, wie z.B. der
+Nachweis der Beteiligung, der delegierte Nachweis der Beteiligung,
+der Nachweis der Autorität, aber auf den Nachweis der Beteiligung
+wird später mehr Gewicht gelegt werden.
+
+Seit der Gründung von Bitcoin wurden different Arten von
+Kryptowährungen mit different Funktionalitäten entwickelt. Einige
+wurden gebaut, um als Währungen zu dienen, z.B. Dash, andere als
+Computer für dezentralisierte Anwendungen, d.h. sie dienen als
+Mittel für andere Leute, um Anwendungen auf der Blockkette wie
+Ethereum zu bauen und auszuführen. Einige wurden als
+Belohnungssysteme, Verleihplattformen, Wahlsysteme, verteilte
+Berechnung, Identitätsplattformen, verteilte Speichersysteme und
+Werbesysteme gebaut.
+
+Grundsätzlich gibt es zwei Hauptmethoden, um einen Konsens über
+die Blockkette zu erreichen, nämlich den Arbeitsnachweis (Proof of
+Work, PoW) und den Einsatznachweis (Proof of Stake, PoS). Jede
+dieser oben genannten Konsensmethoden unterscheidet sich in der
+Art und Weise, wie sie Transaktionen verarbeiten und eine Einigung
+über die Blockkette erzielen.
+
+Nachweis der Arbeit
+Proof of Work, abgekürzt PoW, ist eine Art Blockketten-KonsensAlgorithmus, der Transaktionen durch die Gewinnung von Blöcken
+autorisiert, die schließlich der Blockkette hinzugefügt werden. Dies
+wird durch den Einsatz von Bergbauanlagen erreicht. Mining Rigs
+kann man sich als eine Gruppe von Computern vorstellen, die Daten
+mit einer sehr hohen Geschwindigkeit verarbeiten und find
+Antworten auf bestimmte rätselhafte Aufgaben geben. Die
+Bergbauausrüstung, die die richtigen Antworten erhält, wird
+belohnt. Leider bringt der Einsatz von PoW eine ganze Reihe von
+Herausforderungen mit sich, wobei der "hohe Energieverbrauch" die
+Hauptherausforderung darstellt, daher die Umstellung auf PoS.
+
+Nachweis des Einsatzes
+Der Proof of Stake, abgekürzt PoS, ist eine Art KonsensAlgorithmus, bei dem bestimmte Personen, die am Konsens über
+das Netzwerk teilnehmen möchten, eine bestimmte Menge an
+Münzen zur Verfügung stellen, die als Pfahl bezeichnet wird.
+üblicherweise in der Basiswährung des Blockkettennetzwerks. Sie
+dürfen sich dann am Konsens beteiligen, indem sie Transaktionen
+überprüfen, Blöcke hinzufügen und bei bestimmten Entscheidungen
+abstimmen. Sie haben die Chance, einen Teil oder ihren gesamten
+Anteil zu verlieren, wenn sie sich als unehrlich erweisen, und sie
+werden belohnt, wenn sie Ehrlichkeit zeigen. Dies dient als Anreiz,
+die Ehrlichkeit im Konsensprozess voranzutreiben.
+
+Brieftaschen
+Die Brieftaschen ermöglichen Ihnen die Interaktion mit der
+Blockkette, der Anwendung oder Software, mit der Sie interagieren,
+wenn Sie versuchen, eine Transaktion zu initiieren oder auf Ihre
+Informationen in der Blockkette zuzugreifen. Die Blockchain ist ein
+sehr ausgeklügeltes Netzwerk mit einer massiven Anzahl von
+Codezeilen, die eine durchschnittliche Person nicht verstehen kann.
+Deshalb sind die Brieftaschen so gestaltet, dass sie sehr
+verständliche Schnittstellen haben, mit denen sogar Großmütter
+leicht Kryptowährungen senden und empfangen können, sie
+enthalten im Grunde Ihre Kontoinformationen und Ihr Guthaben.
+Bei der überwiegenden Mehrheit der Brieftaschen handelt es sich
+um Light-Clients, die nur auf die aktuellsten Informationen über die
+Blockkette zugreifen, die für Ihr jeweiliges Konto zu diesem
+Zeitpunkt relevant sind, anstatt die Gesamtheit der massiven file,
+die die Blockkette darstellt, zu speichern. Der Grund dafür ist, dass
+die Blockkette länger wird und daher mit jedem Block mehr Platz
+benötigt, so dass der Bedarf an Light-Clients auf first steigt.
+Die "Konten" der Blockkette bestehen aus zwei Teilen:
+
+1. Eine öffentliche Ansprache, die an andere Personen ausgegeben
+wird, um ihnen mitzuteilen, wohin sie Ihnen Krypto- Währung
+schicken sollen.
+
+2. Ein privater Schlüssel, der zum digitalen Signieren von
+Transaktionen verwendet wird. Dies ist vergleichbar mit einem
+Passwort. Wenn jemand Ihren privaten Schlüssel kennt, kann er
+effectively Ihre Krypto-Währung senden, wohin er will, ohne dass
+dies Auswirkungen hat. Daher ist die sichere Aufbewahrung Ihres
+privaten Schlüssels von grösster Wichtigkeit.
+Wenn Sie Krypto-Währung an einer Börse kaufen, ist die Börs
+generiert und speichert Adressen und Schlüssel für Sie auf ihren
+Servern. Das bedeutet, dass Ihre Vermögenswerte nur so sicher
+sind wie die Server, auf denen sie gespeichert sind, und der
+Austausch ist ein Ziel für Hacker. Aus diesem Grund wird im
+Allgemeinen empfohlen, Ihr Krypto für die Langzeitspeicherung in
+eine sicherere Brieftasche zu verlagern.
+Genauso wie es different Arten von Konten gibt, gibt es different
+Arten von Brieftaschen, aber im Gegensatz zu den Konten, die
+einfach classified sind, was die für die Aufbewahrung der Gelder
+benötigte Zeit betrifft, sind Brieftaschen auch classified durch ihre
+Sicherheit. Sicherheit ist ein sehr wichtiges Thema, da Sie die totale
+Kontrolle über Ihre Gelder haben und ein kleiner Fehler Sie Ihre
+Lebensersparnisse kosten könnte.
+
+Desktop- und Mobile Brieftaschen
+Diese funktionieren, indem Ihre privaten Schlüssel auf der
+Festplatte Ihres Geräts gespeichert werden. Sie sind sicher, und
+wenn Sie Ihr Gerät fallen lassen oder verlieren, werden Sie Ihr Geld
+nicht verlieren (oder vielmehr die Möglichkeit, auf Ihr Geld
+zuzugreifen, was so ziemlich das Gleiche ist), da Sie Ihr Geld
+entweder aus den privaten Schlüsseln oder aus der Startphrase
+zurückgewinnen können.
+Jeder kann von einem anderen Gerät aus auf Ihr Geld zugreifen,
+wenn er die Brieftasche dort wiederherstellt. Der Besitzer des
+privaten Schlüssels bzw. der Grundphrase ist Eigentümer der
+Gelder!
+
+Kühlhaus-Geldbörsen
+Kühlhaus-Geldbörsen gelten weithin als die beste Option, um Ihre
+Krypto-Assets so sicher wie möglich aufzubewahren und gleichzeitig
+einen relativ einfachen Zugriff zu ermöglichen. Ein Gerät von der
+Größe eines flash Laufwerks erzeugt ein neues öffentliches und
+privates Schlüsselpaar offline und verschlüsselt sie. KühlhausGeldbörsen sind aus mehreren Gründen großartig:
+
+1. Sie sind tragbar - Sie können Ihren Krypto überall hin
+mitnehmen!
+
+2. Sie sind nicht anfällig für Hacking.
+
+3. Ihre Informationen werden nirgendwo online gespeichert.
+
+4. Selbst wenn jemand Ihr eigentliches Gerät stiehlt, kann er Ihre
+privaten Schlüssel nicht entschlüsseln. Es ist durch einen Passcode
+und/oder eine Zwei-Faktor-Authentifizierung geschützt, bei der es
+sich um ein zweistufiges Sicherheitsmerkmal handelt: offered by
+google authenticator (Sie können es im playstore herunterladen).
+
+6. Wenn Sie das Gerät verlieren, können Sie Ihre Informationen mit
+einem Seed-Phrase specific wiederherstellen
+
+Adressen
+Die traditionelle Methode, Geld über Banken zu senden, besteht
+darin, nach der Kontonummer und dem richtigen Kontonamen des
+Empfängers zu fragen? Die Bank fungiert als vertrauenswürdiger
+Vermittler der Transaktion an confirm. In Krypto-Währung
+funktioniert es ein bisschen differently.
+Es gibt:
+Ÿ Öffentliche Ansprache (dies hängt mit Ihrem öffentlichen
+Schlüssel zusammen, so dass wir in dieser einleitenden Fibel
+austauschbar auf sie verweisen werden)
+Ÿ Privater Schlüssel
+Stellen Sie sich Ihre öffentliche Adresse wie Ihre Kontonummer vor:
+Jeder kann Ihnen Geld schicken, wenn er Ihre Kontonummer hat -
+sie ist öffentlich. Um Krypto-Währung zu erhalten, müssen Sie dem
+Absender nur Ihre öffentliche Adresse mitteilen. Die Adresse ist eine
+lange, zufällige Folge von Zahlen und Buchstaben.
+Eine Aktualisierung kommt zu Dash, wo Sie nicht länger eine
+zufällige Folge von Zahlen und Buchstaben benötigen, um Dash zu
+versenden, sondern lesbare und leicht abrufbare Benutzernamen,
+die jeder Brieftaschenadresse zugeordnet sind.
+Wenn Sie andererseits über Ihre Mobile-Banking-Anwendung Geld
+an eine andere Person senden möchten, müssen Sie unter first Ihre
+Passwort und loggen Sie sich in Ihr Konto ein. Das Passwort stellt
+sicher, dass es tatsächlich Sie sind, der Geld sendet, und nicht
+irgendein Hacker. Genauso müssen Sie, um Ihr Krypto an jemand
+anderen zu senden, first Ihren privaten Schlüssel eingeben. Ein
+privater Schlüssel schützt Ihr Konto, deshalb sollte er niemals mit
+jemand anderem geteilt werden.
+
+Die Eingabe Ihres privaten Schlüssels, um eine Transaktion zu
+validieren oder zu "signieren", ist so, als würden Sie sagen: "Ja, das
+bin ich! Machen Sie weiter und senden Sie einen Dash an Joe." Zwei
+Dinge sind zu beachten:
+
+1. Wenn jemand im Besitz Ihres privaten Schlüssels ist, kann er
+Ihren Krypto überall hinschicken, wohin er will, und es gibt nichts,
+was Sie dagegen tun können. Ihren Schlüssel sicher aufzubewahren
+ist entscheidend.
+
+2. Für jede Krypto-Datei, die Sie besitzen, werden Sie eine
+öffentliche Adresse different und einen privaten Schlüssel
+verwenden. Ihr öffentlicher und privater Schlüssel werden
+zusammen als Ihr "Schlüsselpaar" bezeichnet.
+
+Auf simplified Weise kann eine Adresse mit physischen
+Infrastrukturen, wie z.B. Ihrem Wohnort, verglichen werden. Da
+Ihre Adresse öffentlich ist, kann jeder, der wissen möchte, wo Sie
+wohnen, Ihre Adresse anfordern und sogar die Adresse Ihres
+Hauses an eine andere Person weitergeben. Jeder kann Ihre
+Adresse kennen, da sie öffentlich ist, aber er kann die
+Räumlichkeiten nicht betreten, nur weil er Ihre Adresse kennt. Ein
+Schlüssel (der private Schlüssel) ist das, was Sie benutzen, um Ihr
+Haus zu betreten, und ohne Ihren privaten Schlüssel kann dies
+kaum jemand tun. Niemand möchte diesen Schlüssel verlieren oder
+Zweitschlüssel an andere weitergeben, aber Sie können Ihre
+Adresse an eine Vielzahl von Personen weitergeben, wenn Sie eine
+Party feiern möchten.
+Es ist sehr wichtig, dass Ihr privater Schlüssel sicher aufbewahrt
+wird; sonst ist es, als würden Sie Ihr Haus für alle öffnen, damit sich
+jeder wie ein Eigentümer verhalten kann.
+
+Besitz von Cryptocurrency
+Um Krypto-Währung zu besitzen, müssen Sie eine Brieftasche
+anlegen. Eine Brieftasche ist ein Softwareprogramm, das zum
+Empfangen, Speichern und Ausgeben von Kryptowährungen. Eine
+Brieftasche hilft Ihnen, Kryptogeld über Ihre öffentlichen und
+privaten Schlüssel zu empfangen, zu speichern und auszugeben.
+Brieftaschen sind daher Einrichtungen zur Unterbringung von
+Kryptogeld und können noch einmal mit einem tatsächlichen Haus
+verglichen werden. Der öffentliche Schlüssel zur Brieftasche hilft
+Ihnen, Kryptogeld zu erhalten, während die privaten Schlüssel
+Zugang zu den Transaktionen mit ihnen gewähren.
+
+Brieftaschen helfen Ihnen nicht nur beim Empfang und bei der
+Ausgabe von Kryptogeld. Sie stellen eine Verbindung zwischen
+Ihnen und der Plattform her und können Ihnen helfen, den aktuellen
+Wert einer Kryptowährung zu erfahren. Sie zeigen Ihren Kontostand
+und Ihre Transaktionshistorie an und helfen Ihnen bei der Auswahl
+von Präferenzen, wie z.B. der Höhe der Überweisungsgebühr, die
+Sie auf der Grundlage der von Ihnen gewünschten Geschwindigkeit
+beim Versand der Kryptowährung verwenden möchten.
+
+Nach der Erstellung einer neuen leeren digitalen Brieftasche, die
+digitale Währung speichern, empfangen und versenden kann, hätte
+jedoch in einigen wenigen Fällen ein Bonus (kleiner Wert der
+Kryptowährung) für die Gaskosten (Gas bezieht sich auf den
+Preiswert, der für die erfolgreiche Durchführung einer Transaktion
+oder die Ausführung eines Vertrags auf der Ethereum-BlockchainPlattform erforderlich ist) und die frühzeitige Verwendung einer
+solchen digitalen Währung der neu erstellten Brieftasche
+zugewiesen werden können, um eine Transaktion einleiten zu
+können. Dies gilt nicht für alle Brieftaschen, ist aber für einige
+wenige digitale Brieftaschen als Bonusgebühr verfügbar, um eine
+Transaktion mit einer besonders niedrigen Bonusgebühr
+einzuleiten. Im Allgemeinen ist eine neu erstellte Kryptogeld-
+
+Brieftasche leer und Sie müssen Kryptogeld in Ihre Brieftasche
+erhalte
+
+a) Krypto-Währung erhalten/beantragen
+Sie können Krypto-Währung besitzen, wenn jemand sie Ihnen
+sendet. Ob es sich um eine Zahlung für eine von Ihnen verkaufte
+Ware, eine von Ihnen bestellte Dienstleistung oder ein
+Geburtstagsgeschenk handelt, Sie können Kryptowährung von
+einem anderen Benutzer direkt in Ihre Brieftasche erhalten. Der
+Absender muss first die öffentliche Adresse Ihrer Brieftasche
+kennen, an die der Benutzer sie senden kann, oder, wenn er eine
+mobile Brieftasche benutzt, den QR- Code einscannen kann.
+
+a) Kauf von Krypto-Währung
+Sie können Krypto-Währung über einen Tauschhandel kaufen.
+Tauschbörsen ermöglichen Benutzern den Kauf und Verkauf von
+Kryptowährung gegen die Währung fiat, die als OTC (over the
+counter)-Börse oder fiat bekannt ist. Sie können Kryptowährung
+auch zusammen mit anderen Kryptowährungen oder mit
+Geschenkkarten kaufen. Einige Tauschplattformen stellen eine
+Verbindung zwischen Benutzern her, indem sie eine Person, die
+kaufen möchte, mit einer anderen Person, die verkaufen möchte, in
+einen Peer-to-Peer- Austausch bringen. Andere wiederum
+verkaufen einfach den gewünschten Betrag an den Käufer im
+Austausch gegen die Währung fiat (OTC).
+
+Tauschbörsen schaffen Brieftaschen für Benutzer zum Kaufen und
+Verkaufen. Es ist jedoch nicht völlig sicher, seine Kryptowährung auf
+einem Tauschmarkt zu lagern. Wenn Sie Ihre Kryptowährung bei
+einer Börse lagern, gewähren Sie Dritten Zugang zu und Kontrolle
+über Ihre Gelder und setzen sie damit Betrug aus. Außerdem sind
+Wechselstuben Opfer von Angriffen und oft anfällig für diese.
+Es ist ratsam, significant Kryptogeldbeträge von einem Umtausch in
+eine sicherere Brieftasche zu verschieben.

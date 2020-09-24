@@ -1,0 +1,286 @@
+¿Qué es Blockchain?
+
+La tecnología blockchain hoy sin dudas es uno de los logros
+tecnológicos más grandes del mundo. Su entrada al mundo fue
+seguida por un cambio en el sector financiero. Aunque hay muchos
+otros sectores en los que el blockchain es importante como los
+sectores de cuidados de salud, agricultura y producción, promete
+revolucionar el sistema financiero mundial actual.
+
+Desde la creación del Bitcoin y una de sus tecnologías subyacentes,
+el blockchain en 2008, ha habido un cambio hacia el uso de esta
+forma digital de dinero llamada criptomonedas. Esto se volvió más
+obvio en como el valor del Bitcoin subió de unos pocos centavos a
+más de 20,000 dólares americanos en diciembre del 2017. La
+tecnología blockchain promete un futuro brillante para el mundo en
+el que vivimos. Tiene el objetivo de hacer que los servicios ofrecidos
+al público se vuelvan tan transparentes, descentralizados, seguros y
+convenientes como sea posible. Uno puede preguntarse por qué hay
+tanto énfasis en este invento tan importante, pero un buen
+entendimiento de esta estructura nos ayudaría a entender las
+infinitas posibilidades que ofrece.
+
+Beneficios del blockchain
+Ÿ Permite transacciones seguras y transparentes. Las
+transacciones son seguras ya que son de par a par (P2P) y son
+transparentes porque cada transacción se hace pública.
+Ÿ No es posible el doble gasto con las transacciones en el
+blockchain. El doble gasto es un problema en el cual la misma
+moneda digital se puede gastar más de una vez.
+Ÿ Elimina la necesidad de un mediador o un tercero para facilitar las
+transacciones entre dos individuos.
+Ÿ Es inmutable. La información ingresada en el blockchain no
+puede ser alterada por ningún medio computacional conocido.
+
+Criptomonedas
+Las criptomonedas son monedas digitales que están en internet y se
+pueden enviar de una persona a otra en cualquier parte del mundo,
+donde muchas personas diferentes confirman las transacciones sin
+un ente regulatorio central como el gobierno.
+¿Te preguntas cómo funciona? Vamos a profundizar más.
+En 2008, se emitió un libro blanco sobre la primera criptomoneda
+llamado “Bitcoin, un nuevo sistema monetario; el internet del
+dinero”. El Bitcoin se puede enviar de persona (Alice) a persona
+(Bob) siempre que ambos estén conectados al internet y a diferencia
+del dinero fiduciario, el Bitcoin tiene una provisión fija de 21
+millones. Eso es todo lo que va a existir y tiene que ser “minado” ej.
+Las nuevas Bitcoin tienen que ser producidas hasta que se alcance el
+máximo. ¿Quién confirma la transacción entre Alice y Bob? ¿Como
+se minan las Bitcoin si todo existe digitalmente?
+
+La tecnología blockchain es una de las cuatro tecnologías detrás del
+Bitcoin y otras criptomonedas, las otras son la Red P2P, Prueba de
+Trabajo y la Criptografía. El blockchain es un libro mayor/red
+distribuido y encriptado que registra los datos donde todos en el
+mundo pueden participar.
+
+Las personas que participan en esta red y confirman las
+transacciones que suceden en la red se llaman mineros,
+simplemente toman una transacción y la añaden al libro mayor/red
+al que todos acceden y le transmiten a todos en la red que se hizo
+una transacción entre Alice y Bob. Sin embargo, este proceso de
+confirmación no es barato ya que las computadoras de estos
+mineros están hechas para resolver problemas complejos, quien lo
+obtenga primero confirmará la transacción y se le recompensará con
+nuevas criptomonedas por sus esfuerzos. Así que los mineros se
+equipan a sí mismos con computadoras poderosas para tener la
+oportunidad de ganar recompensas. Este proceso de confirmación
+se llama “prueba de trabajo” y las recompensas dadas a los
+participantes en la red es lo que ha mantenido a la red operando
+hasta la fecha.
+
+Hay otras formas de confirmación que incluyen pruebas de
+participación, prueba de participación delegada, prueba de
+autoridad, luego se hablará más de las pruebas de participación.
+Desde el comienzo del Bitcoin, se han desarrollado varios tipos de
+criptomonedas con diferentes funciones. Algunas se construyeron
+para servir como monedas, ej., el Dash, algunas como computador
+para aplicaciones descentralizadas ej., sirven como medio para que
+otras personas construyan y ejecuten aplicaciones en el blockchain
+como Ethereum. Algunas están construidas como sistemas de
+recompensa, plataformas de préstamos, sistemas de voto,
+computación distribuida, plataformas de identificación, sistemas de
+almacenamiento distribuidos y sistemas de publicidad.
+
+Básicamente hay dos métodos principales de llegar a un consenso
+del blockchain que son la Prueba de trabajo y la Prueba de
+Participación (PoW y PoS, por sus siglas en inglés). Ambos métodos
+de consenso ya mencionados son distintos por el modo en que
+procesas las transacciones y llegan a acuerdos en el blockchain.
+
+Prueba de Trabajo
+
+La Prueba de Trabajo (PoW) es un tipo de algoritmo de consenso de
+blockchain que autoriza las transacciones a través del minado de
+bloques que son finalmente añadidos al blockchain. Esto se logra
+usando plataformas mineras. Se puede pensar en las plataformas
+mineras como un grupo de computadores que procesan datos a
+velocidades muy altas y encuentran respuestas a ciertas tareas
+complejas. La plataforma minera que de la respuesta correcta es
+recompensada. Desafortunadamente, el uso de estos PoW viene
+con una gran cantidad de desafíos siendo el “alto consumo de
+energía” el principal, por lo tanto, el cambio a PoS.
+
+Prueba de Participación
+La Prueba de Participación (PoS) es un tipo de algortimo de
+consenso donde ciertos individuos que deseen formar parte del
+consenso en la red ofrecen cierta cantidad de monedas que son
+comúnmente la moneda base de la red blockchain. Luego se les
+permite formar parte del consenso al verificar las transacciones,
+añadir bloques y votar en ciertas decisiones. Está la posibilidad de
+perder parte o todas las monedas si se prueba que son deshonestos
+y son recompensados si muestran honestidad. Esto sirve como
+incentive de promover la honestidad en el proceso de consenso.
+
+Carteras
+Las carteras son lo que te permiten interactuar con la blockchain, la
+app o software con el que interactúas al intentar iniciar una
+transacción o acceder a tu información en el blockchain. El
+blockchain es una red sofisticada con una gran cantidad de líneas de
+código que una persona promedio no entiende. Por lo tanto, las
+carteras están diseñadas para tener interfaces muy entendibles que
+incluso las abuelas puedan usar con facilidad para enviar y recibir
+criptomonedas, básicamente tienen la información de tu cuenta y
+tus fondos. La gran mayoría de las carteras son clientes ligeros que
+acceden solamente a la información más reciente en el blockchain
+que es relevante para tu cuenta en particular en ese momento en
+vez de almacenar la totalidad del archivo masivo que es el
+blockchain. Esto es porque el blockchain crece más y por lo tanto
+requiere más espacio con cada bloque, por eso la necesidad de
+clientes ligeros en primer lugar.
+Las “cuentas” de blockchain están compuestas de dos partes:
+
+1. Una dirección pública dada a otros para decirles a dónde enviar
+tu criptomoneda.
+2. Una clave privada usada para firmar digitalmente las
+transacciones. Esto es como una contraseña. Si alguien conoce tu
+clave privada, pueden enviar tus cripto con éxito a donde quieran sin
+repercusiones. Por lo tanto, es de vital importancia mantener a salvo
+tu clave privada.
+Cuando compras criptomonedas en un cambio, el cambio genera y
+almacena las direcciones y claves por ti en sus servidores. Esto
+significa que tus activos solo están tan seguros como lo estén los
+servidores en los que estén y los cambios son objetivos de hackeos.
+Por esto, se recomienda generalmente mover tus criptos a una
+cartera más segura para almacenamiento a largo plazo.
+
+Tal como hay diferentes tipos de cuentas, hay diferentes tipos de
+carteras, pero a diferencia de las cuentas que solo se clasifican por el
+tiempo requerido para almacenar fondos, las carteras también son
+clasificadas por su seguridad. La seguridad es un tema muy
+importante ya que tienes control total de tus fondos y un pequeño
+error te puede costar los ahorros de tu vida.
+
+Carteras de Escritorio y Móviles
+Estos funcionan almacenando tus claves privadas en el disco duro de
+tu dispositivo. Son seguras y si dejas caer o pierdes tu dispositivo, no
+perderás tu dinero (mejor dicho, la habilidad de acceder a tu dinero,
+lo que es casi lo mismo), ya que puedes recuperar tus fondos ya sea
+por las claves privadas o la frase semilla.
+Cualquiera puede acceder a tus fondos desde otro dispositivo si
+reconstituyen la cartera allí. ¡Quien posea las claves privadas/frases
+semilla posee los fondos!
+
+Carteras de Almacenado en Frío
+Las carteras de almacenamiento en frío son vistas como la mejor
+opción para mantener tus activos cripto tan seguros como sea
+posible mientras permites un acceso relativamente sencillo. Un
+dispositivo como una unidad flash genera una clave pública y
+privada fuera de línea, encriptándolas.
+Las carteras de almacenamiento en frío son geniales por varias
+razones:
+1. Son portables, ¡puedes llevar tu cripto a donde sea!
+2. No son suceptibles a hackeos.
+3. Tu información no se guarda en cualquier sitio en línea.
+4. Incluso si alguien roba tu dispositivo, no pueden descifrar tus
+claves. Está protegido por una clave y/o autenticación en dos pasos
+que es una doble capa de seguridad ofrecida por el autenticador de
+Google (lo puedes descargar en la playstore).
+6. Si pierdes el dispositivo, tu información es recuperable con una
+frase semilla específica para ti.
+
+Direcciones
+La forma tradicional de enviar dinero a través de bancos es pedir el
+número y nombre de cuenta del recipiente, ¿no? El banco actúa
+como el mediador de confianza para confirmar la transacción. En
+criptomonedas, todo es un poco diferente.
+Hay:
+Ÿ Dirección pública (esto tiene que ver con la clave pública, en esta
+introducción nos referiremos a ellos indistintamente.)
+Ÿ Clave privada
+
+Piensa que tu dirección pública es tu número de cuenta: quien sea
+puede enviarte dinero si tiene tu número de cuenta, es público. Para
+recibir cripto, todo lo que tienes que hacer es darle a quien envía tu
+dirección pública. La dirección es una cadena larga y aleatoria de
+números y letras.
+Viene una actualización a Dash donde ya no necesitarás cadenas
+aleatorias de números y letras para enviar Dash sino nombres de
+usuarios legibles y fáciles de recordar dedicados a cada dirección de
+cartera.
+
+En cambio, si quieres enviar dinero a alguien más a través de tu app
+de banca móvil, primero tienes que ingresar tu clave e iniciar sesión
+en tu cuenta. La contraseña se asegura que de verdad seas tú quien
+envía el dinero, en vez de algún hacker. Del mismo modo, para
+enviar tus criptos a alguien más, primero tienes que colocar la clave
+privada. La clave privada es lo que protege tu cuenta, así que no se
+debe compartir con nadie más.
+
+Ingresar tu clave privada para validar o “firmar” una transacción es
+como decir “¡sí! ¡Este soy yo! Vamos a enviarle un Dash a Joe.” Hay
+dos cosas que notar:
+1. Si alguien tiene tu clave privada, puede enviar tus criptos a donde
+sea y no hay nada que puedas hacer al respecto. Mantener tu clave a
+salvo es crítico.
+2. Por cada cripto que poseas, usarás una dirección pública
+diferente y una clave privada. Tus claves públicas y privadas son
+colectivamente llamadas tu “par de claves.”
+Simplemente, una dirección se puede comparar a las estructuras
+físicas, tales como tu residencia, por ejemplo. Como tu dirección es
+pública, cualquiera que quiera saber dónde vives puede solicitar tu
+dirección e incluso compartir la dirección de tu casa con otra
+persona. Quien sea puede saber tu dirección porque es pública, pero
+no pueden entrar al sitio solo por saber tu dirección. Una clave (la
+clave privada) es lo que usas para entrar a tu casa y casi nadie puede
+hacerlo sin tu clave privada. Nadie quiere perder esa calve o darle un
+duplicado de la llave a otros, pero puedes compartir tu dirección con
+una multitud cuando quieras hacer una fiesta.
+Mantener tu clave privada segura es muy importante; de lo contrario
+es como dejarle tu casa abierta a todos para que actúen como
+propietarios.
+
+Tener Criptomonedas
+Para tener criptomonedas, tienes que crear una cartera. Una cartera
+es un software usado para recibir, almacenar y gastar
+criptomonedas. Una cartera te ayuda a recibir, almacenar y gastar
+criptomonedas a través de tus claves públicas y privadas. Las
+carteras, por lo tanto, son servicios para alojar criptomonedas y se
+pueden comparar una vez más a una casa real. La clave pública de la
+cartera te ayuda a recibir criptomonedas mientras que la clave
+privada te da acceso a usarlas para hacer transacciones.
+Las carteras funcionan más allá de solo ayudarte a recibir y gastar
+criptomonedas. Establecen una conexión entre tu y la plataforma y
+pueden ayudarte a saber el valor actual de una criptomoneda.
+Muestran tu saldo, tu historial de transacciones y te ayudan a
+escoger preferencias, tales como la tarifa de transacción que quieras
+usar basado en la velocidad deseada para enviar criptomonedas.
+Después de crear una nueva cartera digital vacía que pueda
+almacenar, recibir y enviar monedas digitales, pero en algunos
+casos, un bonus (pequeño valor de criptomoneda) se usa para el
+costo del gas (gas se refiere al precio requerido para realizar una
+transacción con éxito o ejecutar un contrato en la plataforma
+blockchain de Ethereum) y el uso temprano de tal moneda digital,
+pudo haber sido asignado a la cartera recién creada para poder
+iniciar la transacción. Esto no aplica para todas las carteras, pero
+está disponible para algunas carteras digitales como una tarifa
+bonus para comenzar la transacción con una baja tarifa bono
+particular. En general, una cartera de criptomonedas recién creada
+está vacía y tienes que recibir criptomonedas en tu cartera ya sea:
+
+a) Recibir / Solicitar Criptomonedas
+Puedes tener criptomonedas cuando alguien te las envía. Ya sea por
+el pago de un bien que vendiste, un servicio que ordenaste o un
+regalo de cumpleaños, puedes recibir criptomonedas directamente
+en tu cartera de otro usuario. Quien envía primero tiene que estar al
+tanto de la dirección pública de tu billetera, la cual puede enviar el
+usuario, o si usa una cartera móvil, escaneando el código QR.
+
+b) Comprar criptomonedas
+Puedes comprar criptomonedas a través de un cambio. Los cambios
+le permiten a los usuarios comprar y vender criptomonedas por
+dinero fiduciario conocidos como cambios OTC (de venta libre) o
+cambios fiduciarios. También puedes comprar criptomonedas con
+otras criptomonedas o comprarlas con gift cards. Algunas
+plataformas de cambios conectan a los usuarios emparejando a
+alguien que quiera comprar con alguien que quiera vender conocido
+como cambio de par a par. Otros simplemente venden la cantidad
+solicitada al comprador a cambio de dinero fiduciario (OTC).
+Los cambios crean billeteras para que los usuarios compren y
+vendan. Sin embargo, no es completamente seguro almacenar tus
+criptomonedas en un cambio. Almacenar tus criptomonedas en un
+cambio es dar permiso a un tercero a que acceda y controle tus
+fondos, exponiéndote al fraude. Además, los cambios son víctimas
+de ataques y a menudo son vulnerables a ellos.
+Se recomienda mover cantidades considerable de criptomonedas
+de un cambio a una cartera más segura
