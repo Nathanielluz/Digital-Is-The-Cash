@@ -3,7 +3,7 @@
 Digital Is The Cash contains all you need to know about why the blockchain and Financial Technology (FinTech) are important. It explains how FinTech improves the banking activities of the underbanked and provides banking services for the unbanked. 
 
 ## Reading The Book
-You can read the book here on github, or get a free pdf version for:
+You can read the book here on github, or get a free pdf version in:
 
 * [English](https://media.dash.org/wp-content/uploads/English-Digital-is-the-Cash.pdf)
 * [Spanish](https://media.dash.org/wp-content/uploads/Spanish-Digital-is-the-Cash.pdf)
